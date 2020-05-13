@@ -1,0 +1,9812 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.1,-2.4,126.1 ]
+    },
+    "properties": {
+    "ID":1963,
+    "Year":1965,
+    "MONTH":1,
+    "DAY":24,
+    "HOUR":0,
+    "MINUTE":11,
+    "SECOND":12.1,
+    "magnitude":0,
+    "damages":0,
+    "death":71,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.396,-41.755,-72.396 ]
+    },
+    "properties": {
+    "ID":5470,
+    "Year":1965,
+    "MONTH":2,
+    "DAY":19,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":60,
+    "damages":0,
+    "death":27,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.63,-25.67,-70.63 ]
+    },
+    "properties": {
+    "ID":1965,
+    "Year":1965,
+    "MONTH":2,
+    "DAY":23,
+    "HOUR":22,
+    "MINUTE":11,
+    "SECOND":46,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24,39.4,24 ]
+    },
+    "properties": {
+    "ID":3042,
+    "Year":1965,
+    "MONTH":3,
+    "DAY":9,
+    "HOUR":17,
+    "MINUTE":57,
+    "SECOND":53.7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.26,-31.81,-71.26 ]
+    },
+    "properties": {
+    "ID":1966,
+    "Year":1965,
+    "MONTH":3,
+    "DAY":22,
+    "HOUR":22,
+    "MINUTE":56,
+    "SECOND":28,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,34.9,139 ]
+    },
+    "properties": {
+    "ID":5505,
+    "Year":1965,
+    "MONTH":4,
+    "DAY":19,
+    "HOUR":23,
+    "MINUTE":42,
+    "SECOND":0,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.7,44.7,148.7 ]
+    },
+    "properties": {
+    "ID":1970,
+    "Year":1965,
+    "MONTH":6,
+    "DAY":11,
+    "HOUR":3,
+    "MINUTE":34,
+    "SECOND":2,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.3,38.267,22.3 ]
+    },
+    "properties": {
+    "ID":1972,
+    "Year":1965,
+    "MONTH":7,
+    "DAY":6,
+    "HOUR":3,
+    "MINUTE":18,
+    "SECOND":42.7,
+    "magnitude":0,
+    "damages":0,
+    "death":1,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.2,-15.8,167.2 ]
+    },
+    "properties": {
+    "ID":1973,
+    "Year":1965,
+    "MONTH":8,
+    "DAY":11,
+    "HOUR":22,
+    "MINUTE":31,
+    "SECOND":45.9,
+    "magnitude":7,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.8,-15.9,166.8 ]
+    },
+    "properties": {
+    "ID":1974,
+    "Year":1965,
+    "MONTH":8,
+    "DAY":13,
+    "HOUR":12,
+    "MINUTE":40,
+    "SECOND":32,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.8,16.3,-95.8 ]
+    },
+    "properties": {
+    "ID":1975,
+    "Year":1965,
+    "MONTH":8,
+    "DAY":23,
+    "HOUR":19,
+    "MINUTE":46,
+    "SECOND":2.9,
+    "magnitude":0.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.13,-42.9,-75.13 ]
+    },
+    "properties": {
+    "ID":1979,
+    "Year":1965,
+    "MONTH":10,
+    "DAY":3,
+    "HOUR":16,
+    "MINUTE":14,
+    "SECOND":56,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.6,24.1,122.6 ]
+    },
+    "properties": {
+    "ID":1980,
+    "Year":1966,
+    "MONTH":3,
+    "DAY":12,
+    "HOUR":16,
+    "MINUTE":31,
+    "SECOND":21.8,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.633,59.6,10.633 ]
+    },
+    "properties": {
+    "ID":4242,
+    "Year":1966,
+    "MONTH":5,
+    "DAY":8,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.883,-10.343,160.883 ]
+    },
+    "properties": {
+    "ID":1981,
+    "Year":1966,
+    "MONTH":6,
+    "DAY":15,
+    "HOUR":0,
+    "MINUTE":59,
+    "SECOND":42.7,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37,44.75,37 ]
+    },
+    "properties": {
+    "ID":2302,
+    "Year":1966,
+    "MONTH":7,
+    "DAY":12,
+    "HOUR":18,
+    "MINUTE":53,
+    "SECOND":0,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.638,-10.748,-78.638 ]
+    },
+    "properties": {
+    "ID":1982,
+    "Year":1966,
+    "MONTH":10,
+    "DAY":17,
+    "HOUR":21,
+    "MINUTE":41,
+    "SECOND":56,
+    "magnitude":3,
+    "damages":2,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7,-25.5,-70.7 ]
+    },
+    "properties": {
+    "ID":1984,
+    "Year":1966,
+    "MONTH":12,
+    "DAY":28,
+    "HOUR":8,
+    "MINUTE":18,
+    "SECOND":7.4,
+    "magnitude":0.42,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.445,-11.893,166.445 ]
+    },
+    "properties": {
+    "ID":2425,
+    "Year":1966,
+    "MONTH":12,
+    "DAY":31,
+    "HOUR":18,
+    "MINUTE":23,
+    "SECOND":11.1,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.684,-12.334,166.684 ]
+    },
+    "properties": {
+    "ID":3033,
+    "Year":1966,
+    "MONTH":12,
+    "DAY":31,
+    "HOUR":22,
+    "MINUTE":15,
+    "SECOND":16.6,
+    "magnitude":0.8,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.11,45.53,151.11 ]
+    },
+    "properties": {
+    "ID":1986,
+    "Year":1967,
+    "MONTH":3,
+    "DAY":19,
+    "HOUR":4,
+    "MINUTE":1,
+    "SECOND":38.5,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.3,-3.7,119.3 ]
+    },
+    "properties": {
+    "ID":1987,
+    "Year":1967,
+    "MONTH":4,
+    "DAY":11,
+    "HOUR":5,
+    "MINUTE":9,
+    "SECOND":12.1,
+    "magnitude":0,
+    "damages":0,
+    "death":13,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.3,5.5,97.3 ]
+    },
+    "properties": {
+    "ID":1988,
+    "Year":1967,
+    "MONTH":4,
+    "DAY":12,
+    "HOUR":4,
+    "MINUTE":51,
+    "SECOND":50.2,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.3,10.6,-67.3 ]
+    },
+    "properties": {
+    "ID":3349,
+    "Year":1967,
+    "MONTH":7,
+    "DAY":29,
+    "HOUR":23,
+    "MINUTE":59,
+    "SECOND":58.7,
+    "magnitude":0.08,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.5,-4.4,152.5 ]
+    },
+    "properties": {
+    "ID":1989,
+    "Year":1967,
+    "MONTH":8,
+    "DAY":13,
+    "HOUR":22,
+    "MINUTE":15,
+    "SECOND":10,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8,-10.6,-79.8 ]
+    },
+    "properties": {
+    "ID":1990,
+    "Year":1967,
+    "MONTH":9,
+    "DAY":3,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.19,-28.78,-71.19 ]
+    },
+    "properties": {
+    "ID":1991,
+    "Year":1967,
+    "MONTH":11,
+    "DAY":15,
+    "HOUR":21,
+    "MINUTE":31,
+    "SECOND":54,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0,0 ]
+    },
+    "properties": {
+    "ID":5492,
+    "Year":1967,
+    "MONTH":12,
+    "DAY":4,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.5,-21.7,-69.5 ]
+    },
+    "properties": {
+    "ID":1994,
+    "Year":1967,
+    "MONTH":12,
+    "DAY":21,
+    "HOUR":2,
+    "MINUTE":25,
+    "SECOND":23,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.701,43.586,146.701 ]
+    },
+    "properties": {
+    "ID":1996,
+    "Year":1968,
+    "MONTH":1,
+    "DAY":29,
+    "HOUR":10,
+    "MINUTE":19,
+    "SECOND":7.2,
+    "magnitude":0.18,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.5,32.3,132.5 ]
+    },
+    "properties": {
+    "ID":1998,
+    "Year":1968,
+    "MONTH":4,
+    "DAY":1,
+    "HOUR":0,
+    "MINUTE":42,
+    "SECOND":4.2,
+    "magnitude":3.07,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8,44.08,8 ]
+    },
+    "properties": {
+    "ID":3798,
+    "Year":1968,
+    "MONTH":4,
+    "DAY":18,
+    "HOUR":19,
+    "MINUTE":38,
+    "SECOND":15,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.45,-27.15,-109.45 ]
+    },
+    "properties": {
+    "ID":2878,
+    "Year":1968,
+    "MONTH":5,
+    "DAY":4,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2,40.8,143.2 ]
+    },
+    "properties": {
+    "ID":2000,
+    "Year":1968,
+    "MONTH":5,
+    "DAY":16,
+    "HOUR":0,
+    "MINUTE":48,
+    "SECOND":55.4,
+    "magnitude":6,
+    "damages":0,
+    "death":52,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.7,41.5,142.7 ]
+    },
+    "properties": {
+    "ID":2438,
+    "Year":1968,
+    "MONTH":5,
+    "DAY":16,
+    "HOUR":10,
+    "MINUTE":39,
+    "SECOND":1.6,
+    "magnitude":0.58,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.1,39.4,143.1 ]
+    },
+    "properties": {
+    "ID":2001,
+    "Year":1968,
+    "MONTH":6,
+    "DAY":12,
+    "HOUR":13,
+    "MINUTE":41,
+    "SECOND":50.7,
+    "magnitude":0.95,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -178.4,-30.8,-178.4 ]
+    },
+    "properties": {
+    "ID":2002,
+    "Year":1968,
+    "MONTH":7,
+    "DAY":25,
+    "HOUR":7,
+    "MINUTE":23,
+    "SECOND":7.8,
+    "magnitude":0.05,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.2,16.5,122.2 ]
+    },
+    "properties": {
+    "ID":2003,
+    "Year":1968,
+    "MONTH":8,
+    "DAY":1,
+    "HOUR":20,
+    "MINUTE":19,
+    "SECOND":21.9,
+    "magnitude":0.16,
+    "damages":0,
+    "death":1,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.2,33.3,132.2 ]
+    },
+    "properties": {
+    "ID":2004,
+    "Year":1968,
+    "MONTH":8,
+    "DAY":5,
+    "HOUR":7,
+    "MINUTE":17,
+    "SECOND":0,
+    "magnitude":0.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.2,1.4,126.2 ]
+    },
+    "properties": {
+    "ID":2006,
+    "Year":1968,
+    "MONTH":8,
+    "DAY":10,
+    "HOUR":2,
+    "MINUTE":7,
+    "SECOND":4.3,
+    "magnitude":0.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8,0.2,119.8 ]
+    },
+    "properties": {
+    "ID":2007,
+    "Year":1968,
+    "MONTH":8,
+    "DAY":14,
+    "HOUR":22,
+    "MINUTE":14,
+    "SECOND":19.4,
+    "magnitude":10,
+    "damages":0,
+    "death":200,
+    "missing":58,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.3,41.8,32.3 ]
+    },
+    "properties": {
+    "ID":3297,
+    "Year":1968,
+    "MONTH":9,
+    "DAY":3,
+    "HOUR":8,
+    "MINUTE":19,
+    "SECOND":52.2,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.6,10.5,-62.6 ]
+    },
+    "properties": {
+    "ID":2009,
+    "Year":1968,
+    "MONTH":9,
+    "DAY":20,
+    "HOUR":6,
+    "MINUTE":9,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.6,15.6,-92.6 ]
+    },
+    "properties": {
+    "ID":2010,
+    "Year":1968,
+    "MONTH":9,
+    "DAY":25,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.9,-3.1,118.9 ]
+    },
+    "properties": {
+    "ID":2011,
+    "Year":1969,
+    "MONTH":2,
+    "DAY":23,
+    "HOUR":0,
+    "MINUTE":36,
+    "SECOND":56.6,
+    "magnitude":4,
+    "damages":0,
+    "death":600,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.95,36.017,-10.95 ]
+    },
+    "properties": {
+    "ID":2012,
+    "Year":1969,
+    "MONTH":2,
+    "DAY":28,
+    "HOUR":2,
+    "MINUTE":40,
+    "SECOND":32.5,
+    "magnitude":0.9,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.202,19.077,122.202 ]
+    },
+    "properties": {
+    "ID":2872,
+    "Year":1969,
+    "MONTH":3,
+    "DAY":21,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":3,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34,27.7,34 ]
+    },
+    "properties": {
+    "ID":3646,
+    "Year":1969,
+    "MONTH":3,
+    "DAY":31,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.5,59.4,13.5 ]
+    },
+    "properties": {
+    "ID":3350,
+    "Year":1969,
+    "MONTH":4,
+    "DAY":12,
+    "HOUR":5,
+    "MINUTE":44,
+    "SECOND":0,
+    "magnitude":5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.1,32.2,132.1 ]
+    },
+    "properties": {
+    "ID":2013,
+    "Year":1969,
+    "MONTH":4,
+    "DAY":21,
+    "HOUR":7,
+    "MINUTE":19,
+    "SECOND":0,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9,-6.6,146.9 ]
+    },
+    "properties": {
+    "ID":2014,
+    "Year":1969,
+    "MONTH":8,
+    "DAY":2,
+    "HOUR":4,
+    "MINUTE":30,
+    "SECOND":29,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.9,43.6,147.9 ]
+    },
+    "properties": {
+    "ID":2015,
+    "Year":1969,
+    "MONTH":8,
+    "DAY":11,
+    "HOUR":21,
+    "MINUTE":26,
+    "SECOND":36,
+    "magnitude":5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 163.6,57.7,163.6 ]
+    },
+    "properties": {
+    "ID":2016,
+    "Year":1969,
+    "MONTH":11,
+    "DAY":22,
+    "HOUR":23,
+    "MINUTE":9,
+    "SECOND":37,
+    "magnitude":15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.7,15.8,-59.7 ]
+    },
+    "properties": {
+    "ID":2018,
+    "Year":1969,
+    "MONTH":12,
+    "DAY":25,
+    "HOUR":21,
+    "MINUTE":32,
+    "SECOND":27.3,
+    "magnitude":0.46,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.7,6.8,126.7 ]
+    },
+    "properties": {
+    "ID":2019,
+    "Year":1970,
+    "MONTH":1,
+    "DAY":10,
+    "HOUR":12,
+    "MINUTE":7,
+    "SECOND":8.6,
+    "magnitude":0.06,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.71,15.78,121.71 ]
+    },
+    "properties": {
+    "ID":2020,
+    "Year":1970,
+    "MONTH":4,
+    "DAY":7,
+    "HOUR":5,
+    "MINUTE":34,
+    "SECOND":5.6,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.1,43,47.1 ]
+    },
+    "properties": {
+    "ID":3073,
+    "Year":1970,
+    "MONTH":5,
+    "DAY":14,
+    "HOUR":18,
+    "MINUTE":12,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8,-9.2,-78.8 ]
+    },
+    "properties": {
+    "ID":2021,
+    "Year":1970,
+    "MONTH":5,
+    "DAY":31,
+    "HOUR":20,
+    "MINUTE":23,
+    "SECOND":27.3,
+    "magnitude":0.38,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8,-52,-73.8 ]
+    },
+    "properties": {
+    "ID":2022,
+    "Year":1970,
+    "MONTH":6,
+    "DAY":14,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.55,-22.28,-70.55 ]
+    },
+    "properties": {
+    "ID":2023,
+    "Year":1970,
+    "MONTH":6,
+    "DAY":19,
+    "HOUR":10,
+    "MINUTE":56,
+    "SECOND":13.5,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.7,32.2,131.7 ]
+    },
+    "properties": {
+    "ID":2025,
+    "Year":1970,
+    "MONTH":7,
+    "DAY":25,
+    "HOUR":22,
+    "MINUTE":41,
+    "SECOND":10.7,
+    "magnitude":0.32,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173.62,-44.64,173.62 ]
+    },
+    "properties": {
+    "ID":2026,
+    "Year":1970,
+    "MONTH":9,
+    "DAY":28,
+    "HOUR":19,
+    "MINUTE":1,
+    "SECOND":0,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,20.6,122 ]
+    },
+    "properties": {
+    "ID":2027,
+    "Year":1970,
+    "MONTH":9,
+    "DAY":30,
+    "HOUR":9,
+    "MINUTE":52,
+    "SECOND":22.7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.471,-4.907,145.471 ]
+    },
+    "properties": {
+    "ID":2028,
+    "Year":1970,
+    "MONTH":10,
+    "DAY":31,
+    "HOUR":17,
+    "MINUTE":53,
+    "SECOND":9.3,
+    "magnitude":3,
+    "damages":0,
+    "death":3,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.81,-20.94,-69.81 ]
+    },
+    "properties": {
+    "ID":2030,
+    "Year":1970,
+    "MONTH":11,
+    "DAY":28,
+    "HOUR":11,
+    "MINUTE":8,
+    "SECOND":40,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.34,43.84,39.34 ]
+    },
+    "properties": {
+    "ID":2303,
+    "Year":1970,
+    "MONTH":12,
+    "DAY":4,
+    "HOUR":1,
+    "MINUTE":59,
+    "SECOND":25,
+    "magnitude":0.8,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5,-11.116,-76.5 ]
+    },
+    "properties": {
+    "ID":5535,
+    "Year":1971,
+    "MONTH":3,
+    "DAY":19,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":30,
+    "damages":0,
+    "death":600,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2,-32.5,-71.2 ]
+    },
+    "properties": {
+    "ID":2033,
+    "Year":1971,
+    "MONTH":7,
+    "DAY":9,
+    "HOUR":3,
+    "MINUTE":3,
+    "SECOND":18.7,
+    "magnitude":1.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.9,-5.5,153.9 ]
+    },
+    "properties": {
+    "ID":2034,
+    "Year":1971,
+    "MONTH":7,
+    "DAY":14,
+    "HOUR":6,
+    "MINUTE":11,
+    "SECOND":29.1,
+    "magnitude":6,
+    "damages":0,
+    "death":1,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.2,-4.9,153.2 ]
+    },
+    "properties": {
+    "ID":2035,
+    "Year":1971,
+    "MONTH":7,
+    "DAY":26,
+    "HOUR":1,
+    "MINUTE":23,
+    "SECOND":21.3,
+    "magnitude":10,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5,41.4,143.5 ]
+    },
+    "properties": {
+    "ID":2036,
+    "Year":1971,
+    "MONTH":8,
+    "DAY":2,
+    "HOUR":7,
+    "MINUTE":24,
+    "SECOND":56.8,
+    "magnitude":0.51,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.2,46.5,141.2 ]
+    },
+    "properties": {
+    "ID":2431,
+    "Year":1971,
+    "MONTH":9,
+    "DAY":5,
+    "HOUR":18,
+    "MINUTE":35,
+    "SECOND":25,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.4,46.7,141.4 ]
+    },
+    "properties": {
+    "ID":2430,
+    "Year":1971,
+    "MONTH":9,
+    "DAY":6,
+    "HOUR":13,
+    "MINUTE":37,
+    "SECOND":10.8,
+    "magnitude":0.32,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.1,46.4,141.1 ]
+    },
+    "properties": {
+    "ID":2038,
+    "Year":1971,
+    "MONTH":9,
+    "DAY":8,
+    "HOUR":11,
+    "MINUTE":48,
+    "SECOND":23.4,
+    "magnitude":0.09,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.9,46.3,140.9 ]
+    },
+    "properties": {
+    "ID":2039,
+    "Year":1971,
+    "MONTH":9,
+    "DAY":8,
+    "HOUR":16,
+    "MINUTE":59,
+    "SECOND":52.6,
+    "magnitude":0.07,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.6,-6.5,146.6 ]
+    },
+    "properties": {
+    "ID":2040,
+    "Year":1971,
+    "MONTH":9,
+    "DAY":25,
+    "HOUR":4,
+    "MINUTE":36,
+    "SECOND":14,
+    "magnitude":1.8,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.1,46.4,141.1 ]
+    },
+    "properties": {
+    "ID":2041,
+    "Year":1971,
+    "MONTH":9,
+    "DAY":27,
+    "HOUR":19,
+    "MINUTE":1,
+    "SECOND":45.3,
+    "magnitude":0.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 163.3,56,163.3 ]
+    },
+    "properties": {
+    "ID":2044,
+    "Year":1971,
+    "MONTH":12,
+    "DAY":15,
+    "HOUR":8,
+    "MINUTE":29,
+    "SECOND":55.3,
+    "magnitude":0.47,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.3,22.5,122.3 ]
+    },
+    "properties": {
+    "ID":2045,
+    "Year":1972,
+    "MONTH":1,
+    "DAY":25,
+    "HOUR":2,
+    "MINUTE":6,
+    "SECOND":23.3,
+    "magnitude":0.05,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.8,33.3,140.8 ]
+    },
+    "properties": {
+    "ID":2046,
+    "Year":1972,
+    "MONTH":2,
+    "DAY":29,
+    "HOUR":9,
+    "MINUTE":22,
+    "SECOND":59.8,
+    "magnitude":0.42,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.8,-30.5,-71.8 ]
+    },
+    "properties": {
+    "ID":2048,
+    "Year":1972,
+    "MONTH":6,
+    "DAY":8,
+    "HOUR":18,
+    "MINUTE":53,
+    "SECOND":41.7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9,-6,152.9 ]
+    },
+    "properties": {
+    "ID":2051,
+    "Year":1972,
+    "MONTH":8,
+    "DAY":17,
+    "HOUR":23,
+    "MINUTE":44,
+    "SECOND":5.9,
+    "magnitude":0.6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147,-6.7,147 ]
+    },
+    "properties": {
+    "ID":2052,
+    "Year":1972,
+    "MONTH":8,
+    "DAY":26,
+    "HOUR":8,
+    "MINUTE":15,
+    "SECOND":0,
+    "magnitude":1.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.3,32.9,130.3 ]
+    },
+    "properties": {
+    "ID":2053,
+    "Year":1972,
+    "MONTH":9,
+    "DAY":6,
+    "HOUR":11,
+    "MINUTE":42,
+    "SECOND":23.9,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.7,33.3,140.7 ]
+    },
+    "properties": {
+    "ID":2056,
+    "Year":1972,
+    "MONTH":12,
+    "DAY":4,
+    "HOUR":10,
+    "MINUTE":16,
+    "SECOND":12,
+    "magnitude":0.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71,-30.6,-71 ]
+    },
+    "properties": {
+    "ID":2057,
+    "Year":1972,
+    "MONTH":12,
+    "DAY":29,
+    "HOUR":4,
+    "MINUTE":51,
+    "SECOND":1.6,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103,18.48,-103 ]
+    },
+    "properties": {
+    "ID":2058,
+    "Year":1973,
+    "MONTH":1,
+    "DAY":30,
+    "HOUR":21,
+    "MINUTE":1,
+    "SECOND":12.5,
+    "magnitude":1.13,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 156.6,50.5,156.6 ]
+    },
+    "properties": {
+    "ID":2059,
+    "Year":1973,
+    "MONTH":2,
+    "DAY":28,
+    "HOUR":6,
+    "MINUTE":37,
+    "SECOND":49.5,
+    "magnitude":1.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.8,13.4,122.8 ]
+    },
+    "properties": {
+    "ID":3226,
+    "Year":1973,
+    "MONTH":3,
+    "DAY":17,
+    "HOUR":8,
+    "MINUTE":30,
+    "SECOND":51.8,
+    "magnitude":1.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.8,43.2,145.8 ]
+    },
+    "properties": {
+    "ID":2060,
+    "Year":1973,
+    "MONTH":6,
+    "DAY":17,
+    "HOUR":3,
+    "MINUTE":55,
+    "SECOND":2.9,
+    "magnitude":5.96,
+    "damages":5,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4,43.3,146.4 ]
+    },
+    "properties": {
+    "ID":2061,
+    "Year":1973,
+    "MONTH":6,
+    "DAY":24,
+    "HOUR":2,
+    "MINUTE":43,
+    "SECOND":25.5,
+    "magnitude":0.64,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.6,43.2,146.6 ]
+    },
+    "properties": {
+    "ID":3506,
+    "Year":1973,
+    "MONTH":6,
+    "DAY":26,
+    "HOUR":22,
+    "MINUTE":32,
+    "SECOND":0.2,
+    "magnitude":0.21,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5,-32.5,-71.5 ]
+    },
+    "properties": {
+    "ID":2062,
+    "Year":1973,
+    "MONTH":10,
+    "DAY":5,
+    "HOUR":5,
+    "MINUTE":47,
+    "SECOND":51.1,
+    "magnitude":0.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.9,-7.5,155.9 ]
+    },
+    "properties": {
+    "ID":2063,
+    "Year":1974,
+    "MONTH":1,
+    "DAY":31,
+    "HOUR":23,
+    "MINUTE":30,
+    "SECOND":5.3,
+    "magnitude":1.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.6,-7.4,155.6 ]
+    },
+    "properties": {
+    "ID":2064,
+    "Year":1974,
+    "MONTH":2,
+    "DAY":1,
+    "HOUR":3,
+    "MINUTE":12,
+    "SECOND":33.1,
+    "magnitude":4.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.7,34.6,138.7 ]
+    },
+    "properties": {
+    "ID":2065,
+    "Year":1974,
+    "MONTH":5,
+    "DAY":8,
+    "HOUR":23,
+    "MINUTE":33,
+    "SECOND":25.2,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4,-38.5,-73.4 ]
+    },
+    "properties": {
+    "ID":2066,
+    "Year":1974,
+    "MONTH":8,
+    "DAY":18,
+    "HOUR":10,
+    "MINUTE":44,
+    "SECOND":12.8,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.7,43.2,146.7 ]
+    },
+    "properties": {
+    "ID":2067,
+    "Year":1974,
+    "MONTH":9,
+    "DAY":27,
+    "HOUR":5,
+    "MINUTE":47,
+    "SECOND":29.4,
+    "magnitude":0.37,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.79,-12.27,-77.79 ]
+    },
+    "properties": {
+    "ID":2068,
+    "Year":1974,
+    "MONTH":10,
+    "DAY":3,
+    "HOUR":14,
+    "MINUTE":21,
+    "SECOND":29.1,
+    "magnitude":0.92,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.9,35.1,72.9 ]
+    },
+    "properties": {
+    "ID":2071,
+    "Year":1974,
+    "MONTH":12,
+    "DAY":28,
+    "HOUR":12,
+    "MINUTE":11,
+    "SECOND":43.7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130,-5,130 ]
+    },
+    "properties": {
+    "ID":2072,
+    "Year":1975,
+    "MONTH":1,
+    "DAY":15,
+    "HOUR":9,
+    "MINUTE":42,
+    "SECOND":24,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3,-29.9,-71.3 ]
+    },
+    "properties": {
+    "ID":2074,
+    "Year":1975,
+    "MONTH":3,
+    "DAY":13,
+    "HOUR":15,
+    "MINUTE":26,
+    "SECOND":42.5,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.649,35.997,-17.649 ]
+    },
+    "properties": {
+    "ID":2567,
+    "Year":1975,
+    "MONTH":5,
+    "DAY":26,
+    "HOUR":9,
+    "MINUTE":11,
+    "SECOND":51.5,
+    "magnitude":0.76,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.734,43.024,147.734 ]
+    },
+    "properties": {
+    "ID":2075,
+    "Year":1975,
+    "MONTH":6,
+    "DAY":10,
+    "HOUR":13,
+    "MINUTE":47,
+    "SECOND":14.5,
+    "magnitude":5.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.054,-6.59,155.054 ]
+    },
+    "properties": {
+    "ID":2076,
+    "Year":1975,
+    "MONTH":7,
+    "DAY":20,
+    "HOUR":14,
+    "MINUTE":37,
+    "SECOND":39.9,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.993,12.54,125.993 ]
+    },
+    "properties": {
+    "ID":2079,
+    "Year":1975,
+    "MONTH":10,
+    "DAY":31,
+    "HOUR":8,
+    "MINUTE":28,
+    "SECOND":2.6,
+    "magnitude":3,
+    "damages":0,
+    "death":1,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.033,19.451,-155.033 ]
+    },
+    "properties": {
+    "ID":2080,
+    "Year":1975,
+    "MONTH":11,
+    "DAY":29,
+    "HOUR":14,
+    "MINUTE":47,
+    "SECOND":40.9,
+    "magnitude":14.3,
+    "damages":1.5,
+    "death":2,
+    "missing":19,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.467,-16.265,-172.467 ]
+    },
+    "properties": {
+    "ID":2081,
+    "Year":1975,
+    "MONTH":12,
+    "DAY":26,
+    "HOUR":15,
+    "MINUTE":56,
+    "SECOND":38.7,
+    "magnitude":0.38,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.657,-28.427,-177.657 ]
+    },
+    "properties": {
+    "ID":2083,
+    "Year":1976,
+    "MONTH":1,
+    "DAY":14,
+    "HOUR":16,
+    "MINUTE":47,
+    "SECOND":33.5,
+    "magnitude":0.9,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.123,44.915,149.123 ]
+    },
+    "properties": {
+    "ID":2084,
+    "Year":1976,
+    "MONTH":1,
+    "DAY":21,
+    "HOUR":10,
+    "MINUTE":5,
+    "SECOND":24.1,
+    "magnitude":0.38,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.101,15.324,-89.101 ]
+    },
+    "properties": {
+    "ID":2085,
+    "Year":1976,
+    "MONTH":2,
+    "DAY":4,
+    "HOUR":9,
+    "MINUTE":1,
+    "SECOND":43.4,
+    "magnitude":0.12,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.09,6.292,124.09 ]
+    },
+    "properties": {
+    "ID":2086,
+    "Year":1976,
+    "MONTH":8,
+    "DAY":16,
+    "HOUR":16,
+    "MINUTE":11,
+    "SECOND":7.3,
+    "magnitude":9,
+    "damages":134,
+    "death":6800,
+    "missing":6500,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.095,-16.696,-172.095 ]
+    },
+    "properties": {
+    "ID":2088,
+    "Year":1977,
+    "MONTH":4,
+    "DAY":2,
+    "HOUR":7,
+    "MINUTE":15,
+    "SECOND":22.7,
+    "magnitude":0.08,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 163.323,-9.828,163.323 ]
+    },
+    "properties": {
+    "ID":2089,
+    "Year":1977,
+    "MONTH":4,
+    "DAY":20,
+    "HOUR":23,
+    "MINUTE":13,
+    "SECOND":10.4,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.348,-9.89,160.348 ]
+    },
+    "properties": {
+    "ID":2568,
+    "Year":1977,
+    "MONTH":4,
+    "DAY":20,
+    "HOUR":23,
+    "MINUTE":42,
+    "SECOND":50.5,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.731,-9.965,160.731 ]
+    },
+    "properties": {
+    "ID":2090,
+    "Year":1977,
+    "MONTH":4,
+    "DAY":21,
+    "HOUR":4,
+    "MINUTE":24,
+    "SECOND":9.6,
+    "magnitude":0.04,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.9,-22.878,-175.9 ]
+    },
+    "properties": {
+    "ID":2091,
+    "Year":1977,
+    "MONTH":6,
+    "DAY":22,
+    "HOUR":12,
+    "MINUTE":8,
+    "SECOND":33.4,
+    "magnitude":0.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.464,-11.085,118.464 ]
+    },
+    "properties": {
+    "ID":2092,
+    "Year":1977,
+    "MONTH":8,
+    "DAY":19,
+    "HOUR":6,
+    "MINUTE":8,
+    "SECOND":55.2,
+    "magnitude":15,
+    "damages":1.2,
+    "death":189,
+    "missing":75,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2,-1.1,146.2 ]
+    },
+    "properties": {
+    "ID":2093,
+    "Year":1977,
+    "MONTH":8,
+    "DAY":20,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.23,-1.081,146.23 ]
+    },
+    "properties": {
+    "ID":2094,
+    "Year":1977,
+    "MONTH":8,
+    "DAY":28,
+    "HOUR":20,
+    "MINUTE":10,
+    "SECOND":5,
+    "magnitude":0.6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.406,-25.856,-175.406 ]
+    },
+    "properties": {
+    "ID":2095,
+    "Year":1977,
+    "MONTH":10,
+    "DAY":10,
+    "HOUR":11,
+    "MINUTE":53,
+    "SECOND":53.6,
+    "magnitude":0.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.259,34.809,139.259 ]
+    },
+    "properties": {
+    "ID":2096,
+    "Year":1978,
+    "MONTH":1,
+    "DAY":14,
+    "HOUR":3,
+    "MINUTE":24,
+    "SECOND":39,
+    "magnitude":0.35,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.002,44.026,149.002 ]
+    },
+    "properties": {
+    "ID":2097,
+    "Year":1978,
+    "MONTH":3,
+    "DAY":22,
+    "HOUR":0,
+    "MINUTE":50,
+    "SECOND":32.2,
+    "magnitude":0.07,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.029,44.14,149.029 ]
+    },
+    "properties": {
+    "ID":2569,
+    "Year":1978,
+    "MONTH":3,
+    "DAY":22,
+    "HOUR":21,
+    "MINUTE":34,
+    "SECOND":33.4,
+    "magnitude":0.05,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.971,44.209,148.971 ]
+    },
+    "properties": {
+    "ID":2099,
+    "Year":1978,
+    "MONTH":3,
+    "DAY":23,
+    "HOUR":0,
+    "MINUTE":31,
+    "SECOND":2.1,
+    "magnitude":0.17,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.439,44.932,148.439 ]
+    },
+    "properties": {
+    "ID":2101,
+    "Year":1978,
+    "MONTH":3,
+    "DAY":23,
+    "HOUR":3,
+    "MINUTE":15,
+    "SECOND":20.3,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.862,44.244,148.862 ]
+    },
+    "properties": {
+    "ID":2103,
+    "Year":1978,
+    "MONTH":3,
+    "DAY":24,
+    "HOUR":19,
+    "MINUTE":47,
+    "SECOND":50.7,
+    "magnitude":0.65,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.03,38.19,142.03 ]
+    },
+    "properties": {
+    "ID":2105,
+    "Year":1978,
+    "MONTH":6,
+    "DAY":12,
+    "HOUR":8,
+    "MINUTE":14,
+    "SECOND":26.4,
+    "magnitude":0.6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0,0 ]
+    },
+    "properties": {
+    "ID":5448,
+    "Year":1978,
+    "MONTH":6,
+    "DAY":12,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.512,22.282,121.512 ]
+    },
+    "properties": {
+    "ID":2108,
+    "Year":1978,
+    "MONTH":7,
+    "DAY":23,
+    "HOUR":14,
+    "MINUTE":42,
+    "SECOND":36.9,
+    "magnitude":0.05,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.98,36.37,-6.98 ]
+    },
+    "properties": {
+    "ID":4277,
+    "Year":1978,
+    "MONTH":8,
+    "DAY":14,
+    "HOUR":14,
+    "MINUTE":17,
+    "SECOND":50.4,
+    "magnitude":0.12,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.97,-43.08,172.97 ]
+    },
+    "properties": {
+    "ID":5513,
+    "Year":1978,
+    "MONTH":10,
+    "DAY":10,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.591,16.01,-96.591 ]
+    },
+    "properties": {
+    "ID":2109,
+    "Year":1978,
+    "MONTH":11,
+    "DAY":29,
+    "HOUR":19,
+    "MINUTE":52,
+    "SECOND":47.6,
+    "magnitude":1.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.276,17.813,-101.276 ]
+    },
+    "properties": {
+    "ID":2112,
+    "Year":1979,
+    "MONTH":3,
+    "DAY":14,
+    "HOUR":11,
+    "MINUTE":7,
+    "SECOND":16.3,
+    "magnitude":1.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.023,41.956,19.023 ]
+    },
+    "properties": {
+    "ID":2914,
+    "Year":1979,
+    "MONTH":4,
+    "DAY":9,
+    "HOUR":2,
+    "MINUTE":10,
+    "SECOND":20.3,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.209,42.096,19.209 ]
+    },
+    "properties": {
+    "ID":2113,
+    "Year":1979,
+    "MONTH":4,
+    "DAY":15,
+    "HOUR":6,
+    "MINUTE":19,
+    "SECOND":44.1,
+    "magnitude":0.6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.437,34.53,24.437 ]
+    },
+    "properties": {
+    "ID":2915,
+    "Year":1979,
+    "MONTH":5,
+    "DAY":15,
+    "HOUR":6,
+    "MINUTE":59,
+    "SECOND":21.2,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.5,-8.6,123.5 ]
+    },
+    "properties": {
+    "ID":2115,
+    "Year":1979,
+    "MONTH":7,
+    "DAY":18,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":9,
+    "damages":0,
+    "death":1239,
+    "missing":32,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.5,-8.5,123.5 ]
+    },
+    "properties": {
+    "ID":2118,
+    "Year":1979,
+    "MONTH":8,
+    "DAY":9,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.5,11.517,-69.5 ]
+    },
+    "properties": {
+    "ID":2390,
+    "Year":1979,
+    "MONTH":9,
+    "DAY":3,
+    "HOUR":2,
+    "MINUTE":12,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.04,-1.679,136.04 ]
+    },
+    "properties": {
+    "ID":2119,
+    "Year":1979,
+    "MONTH":9,
+    "DAY":12,
+    "HOUR":5,
+    "MINUTE":17,
+    "SECOND":51.4,
+    "magnitude":2,
+    "damages":0,
+    "death":100,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.333,65.117,12.333 ]
+    },
+    "properties": {
+    "ID":4246,
+    "Year":1979,
+    "MONTH":10,
+    "DAY":6,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.25,43.7,7.25 ]
+    },
+    "properties": {
+    "ID":2120,
+    "Year":1979,
+    "MONTH":10,
+    "DAY":16,
+    "HOUR":13,
+    "MINUTE":57,
+    "SECOND":0,
+    "magnitude":10,
+    "damages":0,
+    "death":9,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.984,-16.76,179.984 ]
+    },
+    "properties": {
+    "ID":2121,
+    "Year":1979,
+    "MONTH":11,
+    "DAY":16,
+    "HOUR":15,
+    "MINUTE":21,
+    "SECOND":25.7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -27.78,38.815,-27.78 ]
+    },
+    "properties": {
+    "ID":4259,
+    "Year":1980,
+    "MONTH":1,
+    "DAY":1,
+    "HOUR":16,
+    "MINUTE":42,
+    "SECOND":40,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.753,43.53,146.753 ]
+    },
+    "properties": {
+    "ID":2123,
+    "Year":1980,
+    "MONTH":2,
+    "DAY":23,
+    "HOUR":5,
+    "MINUTE":51,
+    "SECOND":3.2,
+    "magnitude":0.6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.18,46.2,-122.18 ]
+    },
+    "properties": {
+    "ID":3018,
+    "Year":1980,
+    "MONTH":5,
+    "DAY":18,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":250,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.181,34.808,139.181 ]
+    },
+    "properties": {
+    "ID":2124,
+    "Year":1980,
+    "MONTH":6,
+    "DAY":29,
+    "HOUR":7,
+    "MINUTE":20,
+    "SECOND":5.5,
+    "magnitude":0.56,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.916,-12.525,165.916 ]
+    },
+    "properties": {
+    "ID":2125,
+    "Year":1980,
+    "MONTH":7,
+    "DAY":17,
+    "HOUR":19,
+    "MINUTE":42,
+    "SECOND":23.2,
+    "magnitude":0.14,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.354,36.195,1.354 ]
+    },
+    "properties": {
+    "ID":2916,
+    "Year":1980,
+    "MONTH":10,
+    "DAY":10,
+    "HOUR":12,
+    "MINUTE":25,
+    "SECOND":23.5,
+    "magnitude":0.7,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.75,38.64,142.75 ]
+    },
+    "properties": {
+    "ID":2126,
+    "Year":1981,
+    "MONTH":1,
+    "DAY":18,
+    "HOUR":18,
+    "MINUTE":17,
+    "SECOND":24.4,
+    "magnitude":0.37,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.934,38.222,22.934 ]
+    },
+    "properties": {
+    "ID":2128,
+    "Year":1981,
+    "MONTH":2,
+    "DAY":24,
+    "HOUR":20,
+    "MINUTE":53,
+    "SECOND":38.4,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.288,38.209,23.288 ]
+    },
+    "properties": {
+    "ID":5417,
+    "Year":1981,
+    "MONTH":3,
+    "DAY":4,
+    "HOUR":21,
+    "MINUTE":58,
+    "SECOND":5.9,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.267,-35.616,20.267 ]
+    },
+    "properties": {
+    "ID":2129,
+    "Year":1981,
+    "MONTH":5,
+    "DAY":11,
+    "HOUR":7,
+    "MINUTE":10,
+    "SECOND":0,
+    "magnitude":0.29,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 164.357,-48.786,164.357 ]
+    },
+    "properties": {
+    "ID":2130,
+    "Year":1981,
+    "MONTH":5,
+    "DAY":25,
+    "HOUR":5,
+    "MINUTE":25,
+    "SECOND":14.4,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -173.085,-14.96,-173.085 ]
+    },
+    "properties": {
+    "ID":2131,
+    "Year":1981,
+    "MONTH":9,
+    "DAY":1,
+    "HOUR":9,
+    "MINUTE":29,
+    "SECOND":31.5,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.084,18.084,-102.084 ]
+    },
+    "properties": {
+    "ID":2132,
+    "Year":1981,
+    "MONTH":10,
+    "DAY":25,
+    "HOUR":3,
+    "MINUTE":22,
+    "SECOND":15.5,
+    "magnitude":0.09,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.358,13.752,124.358 ]
+    },
+    "properties": {
+    "ID":2589,
+    "Year":1982,
+    "MONTH":1,
+    "DAY":11,
+    "HOUR":6,
+    "MINUTE":10,
+    "SECOND":6.4,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.755,4.374,97.755 ]
+    },
+    "properties": {
+    "ID":2134,
+    "Year":1982,
+    "MONTH":2,
+    "DAY":24,
+    "HOUR":4,
+    "MINUTE":22,
+    "SECOND":40.3,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.479,-9.265,118.479 ]
+    },
+    "properties": {
+    "ID":2343,
+    "Year":1982,
+    "MONTH":3,
+    "DAY":11,
+    "HOUR":10,
+    "MINUTE":32,
+    "SECOND":27.1,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.361,42.158,142.361 ]
+    },
+    "properties": {
+    "ID":2135,
+    "Year":1982,
+    "MONTH":3,
+    "DAY":21,
+    "HOUR":2,
+    "MINUTE":32,
+    "SECOND":7.7,
+    "magnitude":1.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.864,-24.133,-175.864 ]
+    },
+    "properties": {
+    "ID":2137,
+    "Year":1982,
+    "MONTH":12,
+    "DAY":19,
+    "HOUR":17,
+    "MINUTE":43,
+    "SECOND":54.8,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.08,-8.405,123.08 ]
+    },
+    "properties": {
+    "ID":2689,
+    "Year":1982,
+    "MONTH":12,
+    "DAY":25,
+    "HOUR":12,
+    "MINUTE":28,
+    "SECOND":2.8,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.434,33.826,139.434 ]
+    },
+    "properties": {
+    "ID":2139,
+    "Year":1982,
+    "MONTH":12,
+    "DAY":28,
+    "HOUR":6,
+    "MINUTE":37,
+    "SECOND":42.5,
+    "magnitude":0.19,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.228,38.026,20.228 ]
+    },
+    "properties": {
+    "ID":2917,
+    "Year":1983,
+    "MONTH":1,
+    "DAY":17,
+    "HOUR":12,
+    "MINUTE":41,
+    "SECOND":29.7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.924,-4.056,127.924 ]
+    },
+    "properties": {
+    "ID":2140,
+    "Year":1983,
+    "MONTH":3,
+    "DAY":12,
+    "HOUR":1,
+    "MINUTE":36,
+    "SECOND":35.8,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.581,-4.883,153.581 ]
+    },
+    "properties": {
+    "ID":2141,
+    "Year":1983,
+    "MONTH":3,
+    "DAY":18,
+    "HOUR":9,
+    "MINUTE":5,
+    "SECOND":50,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.099,41.346,139.099 ]
+    },
+    "properties": {
+    "ID":2145,
+    "Year":1983,
+    "MONTH":6,
+    "DAY":21,
+    "HOUR":6,
+    "MINUTE":25,
+    "SECOND":27.3,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.766,40.142,24.766 ]
+    },
+    "properties": {
+    "ID":2146,
+    "Year":1983,
+    "MONTH":8,
+    "DAY":6,
+    "HOUR":15,
+    "MINUTE":43,
+    "SECOND":51.2,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.86,18.231,120.86 ]
+    },
+    "properties": {
+    "ID":2148,
+    "Year":1983,
+    "MONTH":8,
+    "DAY":17,
+    "HOUR":12,
+    "MINUTE":17,
+    "SECOND":56,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.59,-8.54,123.59 ]
+    },
+    "properties": {
+    "ID":4702,
+    "Year":1983,
+    "MONTH":8,
+    "DAY":17,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.717,61.233,7.717 ]
+    },
+    "properties": {
+    "ID":4248,
+    "Year":1983,
+    "MONTH":8,
+    "DAY":18,
+    "HOUR":9,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":7,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.563,-26.535,-70.563 ]
+    },
+    "properties": {
+    "ID":2149,
+    "Year":1983,
+    "MONTH":10,
+    "DAY":4,
+    "HOUR":18,
+    "MINUTE":52,
+    "SECOND":13.3,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.11,-6.852,72.11 ]
+    },
+    "properties": {
+    "ID":2150,
+    "Year":1983,
+    "MONTH":11,
+    "DAY":30,
+    "HOUR":17,
+    "MINUTE":46,
+    "SECOND":0.6,
+    "magnitude":1.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.806,-2.823,118.806 ]
+    },
+    "properties": {
+    "ID":2151,
+    "Year":1984,
+    "MONTH":1,
+    "DAY":8,
+    "HOUR":15,
+    "MINUTE":24,
+    "SECOND":13.5,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.192,44.117,148.192 ]
+    },
+    "properties": {
+    "ID":2153,
+    "Year":1984,
+    "MONTH":3,
+    "DAY":24,
+    "HOUR":9,
+    "MINUTE":44,
+    "SECOND":2.6,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5,34.006,141.5 ]
+    },
+    "properties": {
+    "ID":2156,
+    "Year":1984,
+    "MONTH":9,
+    "DAY":18,
+    "HOUR":17,
+    "MINUTE":2,
+    "SECOND":44.3,
+    "magnitude":0.13,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 163.46,56.194,163.46 ]
+    },
+    "properties": {
+    "ID":2157,
+    "Year":1984,
+    "MONTH":12,
+    "DAY":28,
+    "HOUR":10,
+    "MINUTE":37,
+    "SECOND":53.7,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.708,-33.132,-71.708 ]
+    },
+    "properties": {
+    "ID":2158,
+    "Year":1985,
+    "MONTH":3,
+    "DAY":3,
+    "HOUR":22,
+    "MINUTE":47,
+    "SECOND":9.5,
+    "magnitude":3.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.448,17.013,-62.448 ]
+    },
+    "properties": {
+    "ID":2159,
+    "Year":1985,
+    "MONTH":3,
+    "DAY":16,
+    "HOUR":14,
+    "MINUTE":54,
+    "SECOND":0.7,
+    "magnitude":0.12,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.185,-9.245,114.185 ]
+    },
+    "properties": {
+    "ID":2160,
+    "Year":1985,
+    "MONTH":4,
+    "DAY":13,
+    "HOUR":1,
+    "MINUTE":6,
+    "SECOND":0.1,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.828,-4.439,152.828 ]
+    },
+    "properties": {
+    "ID":2161,
+    "Year":1985,
+    "MONTH":7,
+    "DAY":3,
+    "HOUR":4,
+    "MINUTE":36,
+    "SECOND":51.7,
+    "magnitude":1.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.533,18.19,-102.533 ]
+    },
+    "properties": {
+    "ID":2162,
+    "Year":1985,
+    "MONTH":9,
+    "DAY":19,
+    "HOUR":13,
+    "MINUTE":17,
+    "SECOND":47.3,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.647,17.802,-101.647 ]
+    },
+    "properties": {
+    "ID":2163,
+    "Year":1985,
+    "MONTH":9,
+    "DAY":21,
+    "HOUR":1,
+    "MINUTE":37,
+    "SECOND":13.4,
+    "magnitude":1.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.367,-28.117,-176.367 ]
+    },
+    "properties": {
+    "ID":2166,
+    "Year":1986,
+    "MONTH":10,
+    "DAY":20,
+    "HOUR":6,
+    "MINUTE":46,
+    "SECOND":9.9,
+    "magnitude":0.22,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.574,23.901,121.574 ]
+    },
+    "properties": {
+    "ID":3507,
+    "Year":1986,
+    "MONTH":11,
+    "DAY":14,
+    "HOUR":21,
+    "MINUTE":20,
+    "SECOND":10.5,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.689,36.988,141.689 ]
+    },
+    "properties": {
+    "ID":2167,
+    "Year":1987,
+    "MONTH":2,
+    "DAY":6,
+    "HOUR":13,
+    "MINUTE":16,
+    "SECOND":17.8,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.689,-6.088,147.689 ]
+    },
+    "properties": {
+    "ID":2168,
+    "Year":1987,
+    "MONTH":2,
+    "DAY":8,
+    "HOUR":18,
+    "MINUTE":33,
+    "SECOND":58.3,
+    "magnitude":1.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.65,62.2,6.65 ]
+    },
+    "properties": {
+    "ID":4237,
+    "Year":1987,
+    "MONTH":2,
+    "DAY":21,
+    "HOUR":7,
+    "MINUTE":40,
+    "SECOND":0,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.161,-24.388,-70.161 ]
+    },
+    "properties": {
+    "ID":2169,
+    "Year":1987,
+    "MONTH":3,
+    "DAY":5,
+    "HOUR":9,
+    "MINUTE":17,
+    "SECOND":5.2,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.837,32.034,131.837 ]
+    },
+    "properties": {
+    "ID":2170,
+    "Year":1987,
+    "MONTH":3,
+    "DAY":18,
+    "HOUR":3,
+    "MINUTE":36,
+    "SECOND":30.3,
+    "magnitude":0.04,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.865,37.447,137.865 ]
+    },
+    "properties": {
+    "ID":2171,
+    "Year":1987,
+    "MONTH":3,
+    "DAY":24,
+    "HOUR":12,
+    "MINUTE":49,
+    "SECOND":47,
+    "magnitude":0.16,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.15,-45.46,167.15 ]
+    },
+    "properties": {
+    "ID":5514,
+    "Year":1987,
+    "MONTH":5,
+    "DAY":20,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 162.33,-10.717,162.33 ]
+    },
+    "properties": {
+    "ID":2172,
+    "Year":1987,
+    "MONTH":6,
+    "DAY":18,
+    "HOUR":14,
+    "MINUTE":3,
+    "SECOND":16.7,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.828,-14.074,167.828 ]
+    },
+    "properties": {
+    "ID":2173,
+    "Year":1987,
+    "MONTH":7,
+    "DAY":6,
+    "HOUR":2,
+    "MINUTE":49,
+    "SECOND":42.7,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.225,-17.94,-172.225 ]
+    },
+    "properties": {
+    "ID":2174,
+    "Year":1987,
+    "MONTH":10,
+    "DAY":6,
+    "HOUR":4,
+    "MINUTE":19,
+    "SECOND":6,
+    "magnitude":0.25,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154.371,-7.288,154.371 ]
+    },
+    "properties": {
+    "ID":2175,
+    "Year":1987,
+    "MONTH":10,
+    "DAY":12,
+    "HOUR":13,
+    "MINUTE":57,
+    "SECOND":4.7,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.06,-6.266,149.06 ]
+    },
+    "properties": {
+    "ID":2176,
+    "Year":1987,
+    "MONTH":10,
+    "DAY":16,
+    "HOUR":20,
+    "MINUTE":48,
+    "SECOND":1.6,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.155,-8.247,124.155 ]
+    },
+    "properties": {
+    "ID":2178,
+    "Year":1987,
+    "MONTH":11,
+    "DAY":26,
+    "HOUR":1,
+    "MINUTE":43,
+    "SECOND":14,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.433,-24.753,-70.433 ]
+    },
+    "properties": {
+    "ID":2180,
+    "Year":1988,
+    "MONTH":2,
+    "DAY":5,
+    "HOUR":14,
+    "MINUTE":1,
+    "SECOND":2.7,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0,0 ]
+    },
+    "properties": {
+    "ID":2688,
+    "Year":1988,
+    "MONTH":4,
+    "DAY":30,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.013,18.606,121.013 ]
+    },
+    "properties": {
+    "ID":2182,
+    "Year":1988,
+    "MONTH":6,
+    "DAY":24,
+    "HOUR":2,
+    "MINUTE":6,
+    "SECOND":26.3,
+    "magnitude":1.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.78,-5.964,148.78 ]
+    },
+    "properties": {
+    "ID":2183,
+    "Year":1988,
+    "MONTH":7,
+    "DAY":5,
+    "HOUR":20,
+    "MINUTE":32,
+    "SECOND":7.2,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.896,-10.258,160.896 ]
+    },
+    "properties": {
+    "ID":2184,
+    "Year":1988,
+    "MONTH":8,
+    "DAY":10,
+    "HOUR":4,
+    "MINUTE":38,
+    "SECOND":29.2,
+    "magnitude":0.09,
+    "damages":0,
+    "death":1,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.568,-52.341,160.568 ]
+    },
+    "properties": {
+    "ID":2185,
+    "Year":1989,
+    "MONTH":5,
+    "DAY":23,
+    "HOUR":10,
+    "MINUTE":54,
+    "SECOND":46.3,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.083,19.362,-155.083 ]
+    },
+    "properties": {
+    "ID":2186,
+    "Year":1989,
+    "MONTH":6,
+    "DAY":26,
+    "HOUR":3,
+    "MINUTE":27,
+    "SECOND":3.9,
+    "magnitude":0.29,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.883,37.036,-121.883 ]
+    },
+    "properties": {
+    "ID":2188,
+    "Year":1989,
+    "MONTH":10,
+    "DAY":18,
+    "HOUR":0,
+    "MINUTE":4,
+    "SECOND":15.2,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.333,39.571,143.333 ]
+    },
+    "properties": {
+    "ID":2189,
+    "Year":1989,
+    "MONTH":10,
+    "DAY":29,
+    "HOUR":5,
+    "MINUTE":25,
+    "SECOND":38.2,
+    "magnitude":0.11,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.833,18.986,-68.833 ]
+    },
+    "properties": {
+    "ID":2369,
+    "Year":1989,
+    "MONTH":11,
+    "DAY":1,
+    "HOUR":10,
+    "MINUTE":25,
+    "SECOND":52.2,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.76,39.837,142.76 ]
+    },
+    "properties": {
+    "ID":2190,
+    "Year":1989,
+    "MONTH":11,
+    "DAY":1,
+    "HOUR":18,
+    "MINUTE":25,
+    "SECOND":34.9,
+    "magnitude":0.9,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.694,9.755,124.694 ]
+    },
+    "properties": {
+    "ID":5440,
+    "Year":1990,
+    "MONTH":2,
+    "DAY":8,
+    "HOUR":7,
+    "MINUTE":15,
+    "SECOND":32.2,
+    "magnitude":2.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.252,34.706,139.252 ]
+    },
+    "properties": {
+    "ID":2191,
+    "Year":1990,
+    "MONTH":2,
+    "DAY":20,
+    "HOUR":6,
+    "MINUTE":53,
+    "SECOND":39.8,
+    "magnitude":0.16,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.808,9.919,-84.808 ]
+    },
+    "properties": {
+    "ID":2192,
+    "Year":1990,
+    "MONTH":3,
+    "DAY":25,
+    "HOUR":13,
+    "MINUTE":22,
+    "SECOND":55.6,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.438,37.3,15.438 ]
+    },
+    "properties": {
+    "ID":2197,
+    "Year":1990,
+    "MONTH":12,
+    "DAY":13,
+    "HOUR":0,
+    "MINUTE":24,
+    "SECOND":25.7,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.627,23.722,121.627 ]
+    },
+    "properties": {
+    "ID":2198,
+    "Year":1990,
+    "MONTH":12,
+    "DAY":13,
+    "HOUR":19,
+    "MINUTE":50,
+    "SECOND":17.8,
+    "magnitude":0.04,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.3,37.7,26.3 ]
+    },
+    "properties": {
+    "ID":2920,
+    "Year":1991,
+    "MONTH":1,
+    "DAY":4,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.139,-9.929,159.139 ]
+    },
+    "properties": {
+    "ID":2199,
+    "Year":1991,
+    "MONTH":2,
+    "DAY":9,
+    "HOUR":16,
+    "MINUTE":18,
+    "SECOND":58.3,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154.328,48.268,154.328 ]
+    },
+    "properties": {
+    "ID":2200,
+    "Year":1991,
+    "MONTH":2,
+    "DAY":16,
+    "HOUR":1,
+    "MINUTE":23,
+    "SECOND":40.4,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.833,37.133,26.833 ]
+    },
+    "properties": {
+    "ID":2203,
+    "Year":1991,
+    "MONTH":5,
+    "DAY":7,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.442,-9.094,158.442 ]
+    },
+    "properties": {
+    "ID":2205,
+    "Year":1991,
+    "MONTH":10,
+    "DAY":14,
+    "HOUR":15,
+    "MINUTE":58,
+    "SECOND":12.7,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.021,45.533,151.021 ]
+    },
+    "properties": {
+    "ID":2206,
+    "Year":1991,
+    "MONTH":12,
+    "DAY":22,
+    "HOUR":8,
+    "MINUTE":43,
+    "SECOND":13.4,
+    "magnitude":0.52,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,18,108 ]
+    },
+    "properties": {
+    "ID":2207,
+    "Year":1992,
+    "MONTH":1,
+    "DAY":5,
+    "HOUR":6,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0.8,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.762,7.191,126.762 ]
+    },
+    "properties": {
+    "ID":2209,
+    "Year":1992,
+    "MONTH":5,
+    "DAY":17,
+    "HOUR":10,
+    "MINUTE":15,
+    "SECOND":31.3,
+    "magnitude":6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.239,-11.122,165.239 ]
+    },
+    "properties": {
+    "ID":2210,
+    "Year":1992,
+    "MONTH":5,
+    "DAY":27,
+    "HOUR":5,
+    "MINUTE":13,
+    "SECOND":38.8,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.33,39.419,143.33 ]
+    },
+    "properties": {
+    "ID":2211,
+    "Year":1992,
+    "MONTH":7,
+    "DAY":18,
+    "HOUR":8,
+    "MINUTE":36,
+    "SECOND":58.7,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.641,32.536,141.641 ]
+    },
+    "properties": {
+    "ID":5427,
+    "Year":1992,
+    "MONTH":8,
+    "DAY":11,
+    "HOUR":15,
+    "MINUTE":14,
+    "SECOND":55.1,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.386,11.727,-87.386 ]
+    },
+    "properties": {
+    "ID":2213,
+    "Year":1992,
+    "MONTH":9,
+    "DAY":2,
+    "HOUR":0,
+    "MINUTE":16,
+    "SECOND":2.8,
+    "magnitude":9.9,
+    "damages":30,
+    "death":170,
+    "missing":489,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.896,-8.48,121.896 ]
+    },
+    "properties": {
+    "ID":2214,
+    "Year":1992,
+    "MONTH":12,
+    "DAY":12,
+    "HOUR":5,
+    "MINUTE":29,
+    "SECOND":26.3,
+    "magnitude":26.2,
+    "damages":100,
+    "death":1169,
+    "missing":500,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.245,37.634,137.245 ]
+    },
+    "properties": {
+    "ID":2215,
+    "Year":1993,
+    "MONTH":2,
+    "DAY":7,
+    "HOUR":13,
+    "MINUTE":27,
+    "SECOND":42,
+    "magnitude":0.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -178.252,-14.385,-178.252 ]
+    },
+    "properties": {
+    "ID":5602,
+    "Year":1993,
+    "MONTH":3,
+    "DAY":12,
+    "HOUR":14,
+    "MINUTE":1,
+    "SECOND":35.4,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 157.829,51.218,157.829 ]
+    },
+    "properties": {
+    "ID":2218,
+    "Year":1993,
+    "MONTH":6,
+    "DAY":8,
+    "HOUR":13,
+    "MINUTE":3,
+    "SECOND":36.4,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.819,-28.886,-176.819 ]
+    },
+    "properties": {
+    "ID":5515,
+    "Year":1993,
+    "MONTH":6,
+    "DAY":18,
+    "HOUR":11,
+    "MINUTE":52,
+    "SECOND":54.8,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.197,42.851,139.197 ]
+    },
+    "properties": {
+    "ID":2219,
+    "Year":1993,
+    "MONTH":7,
+    "DAY":12,
+    "HOUR":13,
+    "MINUTE":17,
+    "SECOND":11.9,
+    "magnitude":32,
+    "damages":1207,
+    "death":208,
+    "missing":233,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.839,41.985,139.839 ]
+    },
+    "properties": {
+    "ID":2220,
+    "Year":1993,
+    "MONTH":8,
+    "DAY":7,
+    "HOUR":19,
+    "MINUTE":42,
+    "SECOND":41.9,
+    "magnitude":0.16,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.647,51.934,158.647 ]
+    },
+    "properties": {
+    "ID":2222,
+    "Year":1993,
+    "MONTH":11,
+    "DAY":13,
+    "HOUR":1,
+    "MINUTE":18,
+    "SECOND":4.1,
+    "magnitude":0.05,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.733,1.015,127.733 ]
+    },
+    "properties": {
+    "ID":2224,
+    "Year":1994,
+    "MONTH":1,
+    "DAY":21,
+    "HOUR":2,
+    "MINUTE":24,
+    "SECOND":29.9,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.302,-4.967,104.302 ]
+    },
+    "properties": {
+    "ID":2225,
+    "Year":1994,
+    "MONTH":2,
+    "DAY":15,
+    "HOUR":17,
+    "MINUTE":7,
+    "SECOND":43.8,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.683,40.608,143.683 ]
+    },
+    "properties": {
+    "ID":2226,
+    "Year":1994,
+    "MONTH":4,
+    "DAY":8,
+    "HOUR":1,
+    "MINUTE":10,
+    "SECOND":40.8,
+    "magnitude":0.11,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.583,61.267,6.583 ]
+    },
+    "properties": {
+    "ID":4249,
+    "Year":1994,
+    "MONTH":4,
+    "DAY":28,
+    "HOUR":11,
+    "MINUTE":30,
+    "SECOND":0,
+    "magnitude":4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.448,23.959,122.448 ]
+    },
+    "properties": {
+    "ID":5428,
+    "Year":1994,
+    "MONTH":5,
+    "DAY":24,
+    "HOUR":4,
+    "MINUTE":0,
+    "SECOND":42.1,
+    "magnitude":0.02,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.835,-10.477,112.835 ]
+    },
+    "properties": {
+    "ID":2227,
+    "Year":1994,
+    "MONTH":6,
+    "DAY":2,
+    "HOUR":18,
+    "MINUTE":17,
+    "SECOND":34,
+    "magnitude":13.9,
+    "damages":2.2,
+    "death":238,
+    "missing":423,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.892,-10.362,112.892 ]
+    },
+    "properties": {
+    "ID":2592,
+    "Year":1994,
+    "MONTH":6,
+    "DAY":3,
+    "HOUR":21,
+    "MINUTE":6,
+    "SECOND":59.8,
+    "magnitude":3.7,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.366,-10.777,113.366 ]
+    },
+    "properties": {
+    "ID":5576,
+    "Year":1994,
+    "MONTH":6,
+    "DAY":4,
+    "HOUR":0,
+    "MINUTE":57,
+    "SECOND":50.6,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.369,-10.341,113.369 ]
+    },
+    "properties": {
+    "ID":2593,
+    "Year":1994,
+    "MONTH":6,
+    "DAY":5,
+    "HOUR":1,
+    "MINUTE":45,
+    "SECOND":2.7,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.68,40.402,-125.68 ]
+    },
+    "properties": {
+    "ID":2228,
+    "Year":1994,
+    "MONTH":9,
+    "DAY":1,
+    "HOUR":15,
+    "MINUTE":15,
+    "SECOND":53,
+    "magnitude":0.07,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.214,-4.238,152.214 ]
+    },
+    "properties": {
+    "ID":2229,
+    "Year":1994,
+    "MONTH":9,
+    "DAY":19,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":1.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.321,43.773,147.321 ]
+    },
+    "properties": {
+    "ID":2230,
+    "Year":1994,
+    "MONTH":10,
+    "DAY":4,
+    "HOUR":13,
+    "MINUTE":22,
+    "SECOND":55.8,
+    "magnitude":10.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.98,-1.258,127.98 ]
+    },
+    "properties": {
+    "ID":2231,
+    "Year":1994,
+    "MONTH":10,
+    "DAY":8,
+    "HOUR":21,
+    "MINUTE":44,
+    "SECOND":7.2,
+    "magnitude":3,
+    "damages":0,
+    "death":1,
+    "missing":52,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.916,43.905,147.916 ]
+    },
+    "properties": {
+    "ID":2232,
+    "Year":1994,
+    "MONTH":10,
+    "DAY":9,
+    "HOUR":7,
+    "MINUTE":55,
+    "SECOND":39.5,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.067,13.525,121.067 ]
+    },
+    "properties": {
+    "ID":2234,
+    "Year":1994,
+    "MONTH":11,
+    "DAY":14,
+    "HOUR":19,
+    "MINUTE":15,
+    "SECOND":30.6,
+    "magnitude":7.3,
+    "damages":3.7,
+    "death":81,
+    "missing":225,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -173.529,-15.199,-173.529 ]
+    },
+    "properties": {
+    "ID":2240,
+    "Year":1995,
+    "MONTH":4,
+    "DAY":7,
+    "HOUR":22,
+    "MINUTE":6,
+    "SECOND":56.8,
+    "magnitude":0.09,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.58,12.059,125.58 ]
+    },
+    "properties": {
+    "ID":2241,
+    "Year":1995,
+    "MONTH":4,
+    "DAY":21,
+    "HOUR":0,
+    "MINUTE":34,
+    "SECOND":46,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.92,12.047,125.92 ]
+    },
+    "properties": {
+    "ID":2242,
+    "Year":1995,
+    "MONTH":4,
+    "DAY":21,
+    "HOUR":5,
+    "MINUTE":17,
+    "SECOND":1.3,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.695,40.149,21.695 ]
+    },
+    "properties": {
+    "ID":2244,
+    "Year":1995,
+    "MONTH":5,
+    "DAY":13,
+    "HOUR":8,
+    "MINUTE":47,
+    "SECOND":12.7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.049,-8.452,125.049 ]
+    },
+    "properties": {
+    "ID":2245,
+    "Year":1995,
+    "MONTH":5,
+    "DAY":14,
+    "HOUR":11,
+    "MINUTE":33,
+    "SECOND":21.1,
+    "magnitude":4,
+    "damages":0,
+    "death":11,
+    "missing":19,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.9,-23.008,169.9 ]
+    },
+    "properties": {
+    "ID":2246,
+    "Year":1995,
+    "MONTH":5,
+    "DAY":16,
+    "HOUR":20,
+    "MINUTE":12,
+    "SECOND":44.2,
+    "magnitude":0.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.827,52.629,142.827 ]
+    },
+    "properties": {
+    "ID":2247,
+    "Year":1995,
+    "MONTH":5,
+    "DAY":27,
+    "HOUR":13,
+    "MINUTE":3,
+    "SECOND":52.6,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.283,38.401,22.283 ]
+    },
+    "properties": {
+    "ID":2248,
+    "Year":1995,
+    "MONTH":6,
+    "DAY":15,
+    "HOUR":0,
+    "MINUTE":15,
+    "SECOND":48.7,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.294,-23.34,-70.294 ]
+    },
+    "properties": {
+    "ID":2249,
+    "Year":1995,
+    "MONTH":7,
+    "DAY":30,
+    "HOUR":5,
+    "MINUTE":11,
+    "SECOND":23.6,
+    "magnitude":3,
+    "damages":0.131,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154.178,-5.799,154.178 ]
+    },
+    "properties": {
+    "ID":2250,
+    "Year":1995,
+    "MONTH":8,
+    "DAY":16,
+    "HOUR":10,
+    "MINUTE":27,
+    "SECOND":28.6,
+    "magnitude":0.6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.597,16.779,-98.597 ]
+    },
+    "properties": {
+    "ID":2251,
+    "Year":1995,
+    "MONTH":9,
+    "DAY":14,
+    "HOUR":14,
+    "MINUTE":4,
+    "SECOND":31.4,
+    "magnitude":0.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.205,19.055,-104.205 ]
+    },
+    "properties": {
+    "ID":2252,
+    "Year":1995,
+    "MONTH":10,
+    "DAY":9,
+    "HOUR":15,
+    "MINUTE":35,
+    "SECOND":53.9,
+    "magnitude":11,
+    "damages":0,
+    "death":1,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.175,27.929,130.175 ]
+    },
+    "properties": {
+    "ID":2253,
+    "Year":1995,
+    "MONTH":10,
+    "DAY":18,
+    "HOUR":10,
+    "MINUTE":37,
+    "SECOND":26.3,
+    "magnitude":2.59,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.148,28.094,130.148 ]
+    },
+    "properties": {
+    "ID":2254,
+    "Year":1995,
+    "MONTH":10,
+    "DAY":19,
+    "HOUR":2,
+    "MINUTE":41,
+    "SECOND":36.1,
+    "magnitude":1.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.417,-28.906,-71.417 ]
+    },
+    "properties": {
+    "ID":2255,
+    "Year":1995,
+    "MONTH":11,
+    "DAY":1,
+    "HOUR":0,
+    "MINUTE":35,
+    "SECOND":32.7,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.799,28.826,34.799 ]
+    },
+    "properties": {
+    "ID":2256,
+    "Year":1995,
+    "MONTH":11,
+    "DAY":22,
+    "HOUR":4,
+    "MINUTE":15,
+    "SECOND":11.9,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.3,44.663,149.3 ]
+    },
+    "properties": {
+    "ID":2257,
+    "Year":1995,
+    "MONTH":12,
+    "DAY":3,
+    "HOUR":18,
+    "MINUTE":1,
+    "SECOND":8.9,
+    "magnitude":1.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.931,0.729,119.931 ]
+    },
+    "properties": {
+    "ID":2259,
+    "Year":1996,
+    "MONTH":1,
+    "DAY":1,
+    "HOUR":8,
+    "MINUTE":5,
+    "SECOND":10.8,
+    "magnitude":3.43,
+    "damages":1.2,
+    "death":9,
+    "missing":63,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.083,38.367,22.083 ]
+    },
+    "properties": {
+    "ID":2258,
+    "Year":1996,
+    "MONTH":1,
+    "DAY":1,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.952,-0.891,136.952 ]
+    },
+    "properties": {
+    "ID":2260,
+    "Year":1996,
+    "MONTH":2,
+    "DAY":17,
+    "HOUR":5,
+    "MINUTE":59,
+    "SECOND":30.5,
+    "magnitude":7.7,
+    "damages":4.2,
+    "death":110,
+    "missing":100,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.587,-9.593,-79.587 ]
+    },
+    "properties": {
+    "ID":2261,
+    "Year":1996,
+    "MONTH":2,
+    "DAY":21,
+    "HOUR":12,
+    "MINUTE":51,
+    "SECOND":1.3,
+    "magnitude":5.1,
+    "damages":0,
+    "death":12,
+    "missing":57,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.07,15.978,-98.07 ]
+    },
+    "properties": {
+    "ID":2262,
+    "Year":1996,
+    "MONTH":2,
+    "DAY":25,
+    "HOUR":3,
+    "MINUTE":8,
+    "SECOND":15.8,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.97,46.73,7.97 ]
+    },
+    "properties": {
+    "ID":5242,
+    "Year":1996,
+    "MONTH":4,
+    "DAY":24,
+    "HOUR":8,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.931,31.555,139.931 ]
+    },
+    "properties": {
+    "ID":2265,
+    "Year":1996,
+    "MONTH":9,
+    "DAY":4,
+    "HOUR":18,
+    "MINUTE":16,
+    "SECOND":1.9,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.436,-22.118,-113.436 ]
+    },
+    "properties": {
+    "ID":2266,
+    "Year":1996,
+    "MONTH":9,
+    "DAY":5,
+    "HOUR":8,
+    "MINUTE":14,
+    "SECOND":14.4,
+    "magnitude":0.09,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.093,30.568,131.093 ]
+    },
+    "properties": {
+    "ID":2267,
+    "Year":1996,
+    "MONTH":10,
+    "DAY":18,
+    "HOUR":10,
+    "MINUTE":50,
+    "SECOND":20.8,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.468,31.885,131.468 ]
+    },
+    "properties": {
+    "ID":2268,
+    "Year":1996,
+    "MONTH":10,
+    "DAY":19,
+    "HOUR":14,
+    "MINUTE":44,
+    "SECOND":40.7,
+    "magnitude":0.55,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.675,-14.993,-75.675 ]
+    },
+    "properties": {
+    "ID":2269,
+    "Year":1996,
+    "MONTH":11,
+    "DAY":12,
+    "HOUR":16,
+    "MINUTE":59,
+    "SECOND":44,
+    "magnitude":0.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.314,31.789,131.314 ]
+    },
+    "properties": {
+    "ID":2270,
+    "Year":1996,
+    "MONTH":12,
+    "DAY":2,
+    "HOUR":22,
+    "MINUTE":17,
+    "SECOND":59.2,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6,13.1,-87.6 ]
+    },
+    "properties": {
+    "ID":5416,
+    "Year":1997,
+    "MONTH":4,
+    "DAY":10,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":15,
+    "damages":0.3,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0,0 ]
+    },
+    "properties": {
+    "ID":3032,
+    "Year":1997,
+    "MONTH":4,
+    "DAY":18,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.676,-12.584,166.676 ]
+    },
+    "properties": {
+    "ID":2273,
+    "Year":1997,
+    "MONTH":4,
+    "DAY":21,
+    "HOUR":12,
+    "MINUTE":2,
+    "SECOND":26.4,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.486,10.598,-63.486 ]
+    },
+    "properties": {
+    "ID":2274,
+    "Year":1997,
+    "MONTH":7,
+    "DAY":9,
+    "HOUR":19,
+    "MINUTE":24,
+    "SECOND":13.1,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.878,31.959,141.878 ]
+    },
+    "properties": {
+    "ID":3034,
+    "Year":1997,
+    "MONTH":9,
+    "DAY":30,
+    "HOUR":6,
+    "MINUTE":27,
+    "SECOND":24.7,
+    "magnitude":0.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.77,-22.1,-176.77 ]
+    },
+    "properties": {
+    "ID":2275,
+    "Year":1997,
+    "MONTH":10,
+    "DAY":14,
+    "HOUR":9,
+    "MINUTE":53,
+    "SECOND":18.1,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 162.035,54.841,162.035 ]
+    },
+    "properties": {
+    "ID":2277,
+    "Year":1997,
+    "MONTH":12,
+    "DAY":5,
+    "HOUR":11,
+    "MINUTE":26,
+    "SECOND":54.6,
+    "magnitude":8,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 162.035,54.841,162.035 ]
+    },
+    "properties": {
+    "ID":2278,
+    "Year":1997,
+    "MONTH":12,
+    "DAY":14,
+    "HOUR":3,
+    "MINUTE":30,
+    "SECOND":0,
+    "magnitude":8,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.72,-62.18 ]
+    },
+    "properties": {
+    "ID":2279,
+    "Year":1997,
+    "MONTH":12,
+    "DAY":26,
+    "HOUR":8,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.267,61.183,5.267 ]
+    },
+    "properties": {
+    "ID":4247,
+    "Year":1998,
+    "MONTH":3,
+    "DAY":19,
+    "HOUR":18,
+    "MINUTE":30,
+    "SECOND":0,
+    "magnitude":6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.527,-62.877,149.527 ]
+    },
+    "properties": {
+    "ID":2587,
+    "Year":1998,
+    "MONTH":3,
+    "DAY":25,
+    "HOUR":3,
+    "MINUTE":12,
+    "SECOND":25,
+    "magnitude":0.01,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.308,22.306,125.308 ]
+    },
+    "properties": {
+    "ID":2280,
+    "Year":1998,
+    "MONTH":5,
+    "DAY":3,
+    "HOUR":23,
+    "MINUTE":30,
+    "SECOND":21.9,
+    "magnitude":0.13,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.582,-2.943,142.582 ]
+    },
+    "properties": {
+    "ID":2281,
+    "Year":1998,
+    "MONTH":7,
+    "DAY":17,
+    "HOUR":8,
+    "MINUTE":49,
+    "SECOND":16.1,
+    "magnitude":15.03,
+    "damages":0,
+    "death":2205,
+    "missing":1000,
+    "injuries":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.722,-62.18 ]
+    },
+    "properties": {
+    "ID":2880,
+    "Year":1999,
+    "MONTH":1,
+    "DAY":20,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -138.67,-10.52,-138.67 ]
+    },
+    "properties": {
+    "ID":3229,
+    "Year":1999,
+    "MONTH":9,
+    "DAY":13,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":8,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.214,-16.423,168.214 ]
+    },
+    "properties": {
+    "ID":2339,
+    "Year":1999,
+    "MONTH":11,
+    "DAY":26,
+    "HOUR":13,
+    "MINUTE":21,
+    "SECOND":15.5,
+    "magnitude":6.6,
+    "damages":0,
+    "death":5,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.69,34.22,25.69 ]
+    },
+    "properties": {
+    "ID":2922,
+    "Year":2000,
+    "MONTH":4,
+    "DAY":5,
+    "HOUR":4,
+    "MINUTE":36,
+    "SECOND":59.8,
+    "magnitude":0.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.573,-1.105,123.573 ]
+    },
+    "properties": {
+    "ID":2338,
+    "Year":2000,
+    "MONTH":5,
+    "DAY":4,
+    "HOUR":4,
+    "MINUTE":21,
+    "SECOND":16.2,
+    "magnitude":6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.453,-13.802,97.453 ]
+    },
+    "properties": {
+    "ID":2341,
+    "Year":2000,
+    "MONTH":6,
+    "DAY":18,
+    "HOUR":14,
+    "MINUTE":44,
+    "SECOND":13.3,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.26,34.319,139.26 ]
+    },
+    "properties": {
+    "ID":3508,
+    "Year":2000,
+    "MONTH":7,
+    "DAY":15,
+    "HOUR":1,
+    "MINUTE":30,
+    "SECOND":30.5,
+    "magnitude":0.07,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.376,33.901,139.376 ]
+    },
+    "properties": {
+    "ID":3509,
+    "Year":2000,
+    "MONTH":7,
+    "DAY":30,
+    "HOUR":12,
+    "MINUTE":25,
+    "SECOND":45.5,
+    "magnitude":0.14,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.169,-3.98,152.169 ]
+    },
+    "properties": {
+    "ID":2352,
+    "Year":2000,
+    "MONTH":11,
+    "DAY":16,
+    "HOUR":4,
+    "MINUTE":54,
+    "SECOND":56.7,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.75,70.25,-52.75 ]
+    },
+    "properties": {
+    "ID":3535,
+    "Year":2000,
+    "MONTH":11,
+    "DAY":21,
+    "HOUR":18,
+    "MINUTE":4,
+    "SECOND":50,
+    "magnitude":50,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.66,13.049,-88.66 ]
+    },
+    "properties": {
+    "ID":5444,
+    "Year":2001,
+    "MONTH":1,
+    "DAY":13,
+    "HOUR":17,
+    "MINUTE":33,
+    "SECOND":32.3,
+    "magnitude":0.25,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.641,-16.265,-73.641 ]
+    },
+    "properties": {
+    "ID":2373,
+    "Year":2001,
+    "MONTH":6,
+    "DAY":23,
+    "HOUR":20,
+    "MINUTE":33,
+    "SECOND":14.1,
+    "magnitude":8.8,
+    "damages":0,
+    "death":26,
+    "missing":0,
+    "injuries":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -132.2,52.63,-132.2 ]
+    },
+    "properties": {
+    "ID":5609,
+    "Year":2001,
+    "MONTH":10,
+    "DAY":12,
+    "HOUR":5,
+    "MINUTE":2,
+    "SECOND":34,
+    "magnitude":0.11,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.734,23.954,122.734 ]
+    },
+    "properties": {
+    "ID":2404,
+    "Year":2001,
+    "MONTH":12,
+    "DAY":18,
+    "HOUR":4,
+    "MINUTE":2,
+    "SECOND":58.2,
+    "magnitude":0.12,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.856,-17.6,167.856 ]
+    },
+    "properties": {
+    "ID":2397,
+    "Year":2002,
+    "MONTH":1,
+    "DAY":2,
+    "HOUR":17,
+    "MINUTE":22,
+    "SECOND":48.7,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.09,23.346,124.09 ]
+    },
+    "properties": {
+    "ID":2395,
+    "Year":2002,
+    "MONTH":3,
+    "DAY":26,
+    "HOUR":3,
+    "MINUTE":45,
+    "SECOND":48.7,
+    "magnitude":0.05,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.179,24.279,122.179 ]
+    },
+    "properties": {
+    "ID":2396,
+    "Year":2002,
+    "MONTH":3,
+    "DAY":31,
+    "HOUR":6,
+    "MINUTE":52,
+    "SECOND":50.4,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.945,-3.302,142.945 ]
+    },
+    "properties": {
+    "ID":2398,
+    "Year":2002,
+    "MONTH":9,
+    "DAY":8,
+    "HOUR":18,
+    "MINUTE":44,
+    "SECOND":23.7,
+    "magnitude":5.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.297,-1.757,134.297 ]
+    },
+    "properties": {
+    "ID":2400,
+    "Year":2002,
+    "MONTH":10,
+    "DAY":10,
+    "HOUR":10,
+    "MINUTE":50,
+    "SECOND":20.5,
+    "magnitude":5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.2,-44.7,169.2 ]
+    },
+    "properties": {
+    "ID":5532,
+    "Year":2002,
+    "MONTH":11,
+    "DAY":4,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789,15.213 ]
+    },
+    "properties": {
+    "ID":2923,
+    "Year":2002,
+    "MONTH":12,
+    "DAY":30,
+    "HOUR":13,
+    "MINUTE":15,
+    "SECOND":0,
+    "magnitude":10.9,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.77,-10.491,160.77 ]
+    },
+    "properties": {
+    "ID":2401,
+    "Year":2003,
+    "MONTH":1,
+    "DAY":20,
+    "HOUR":8,
+    "MINUTE":43,
+    "SECOND":6,
+    "magnitude":2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.104,18.77,-104.104 ]
+    },
+    "properties": {
+    "ID":2402,
+    "Year":2003,
+    "MONTH":1,
+    "DAY":22,
+    "HOUR":2,
+    "MINUTE":6,
+    "SECOND":34.6,
+    "magnitude":0.61,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.634,36.964,3.634 ]
+    },
+    "properties": {
+    "ID":2403,
+    "Year":2003,
+    "MONTH":5,
+    "DAY":21,
+    "HOUR":18,
+    "MINUTE":44,
+    "SECOND":20.1,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.578,36.939,3.578 ]
+    },
+    "properties": {
+    "ID":3618,
+    "Year":2003,
+    "MONTH":5,
+    "DAY":27,
+    "HOUR":17,
+    "MINUTE":11,
+    "SECOND":28.8,
+    "magnitude":0.08,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.722,-62.18 ]
+    },
+    "properties": {
+    "ID":2694,
+    "Year":2003,
+    "MONTH":7,
+    "DAY":12,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.144,-45.104,167.144 ]
+    },
+    "properties": {
+    "ID":2953,
+    "Year":2003,
+    "MONTH":8,
+    "DAY":21,
+    "HOUR":12,
+    "MINUTE":12,
+    "SECOND":49.7,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.91,41.815,143.91 ]
+    },
+    "properties": {
+    "ID":2406,
+    "Year":2003,
+    "MONTH":9,
+    "DAY":25,
+    "HOUR":19,
+    "MINUTE":50,
+    "SECOND":6.3,
+    "magnitude":4.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.619,37.812,142.619 ]
+    },
+    "properties": {
+    "ID":2428,
+    "Year":2003,
+    "MONTH":10,
+    "DAY":31,
+    "HOUR":1,
+    "MINUTE":6,
+    "SECOND":28.2,
+    "magnitude":0.32,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.35,-22.107,169.35 ]
+    },
+    "properties": {
+    "ID":3015,
+    "Year":2003,
+    "MONTH":12,
+    "DAY":27,
+    "HOUR":4,
+    "MINUTE":55,
+    "SECOND":25.4,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.4,-3.12,127.4 ]
+    },
+    "properties": {
+    "ID":2434,
+    "Year":2004,
+    "MONTH":1,
+    "DAY":28,
+    "HOUR":22,
+    "MINUTE":15,
+    "SECOND":30.7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.551,31.675,35.551 ]
+    },
+    "properties": {
+    "ID":4562,
+    "Year":2004,
+    "MONTH":2,
+    "DAY":11,
+    "HOUR":8,
+    "MINUTE":15,
+    "SECOND":3.8,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.618,33.07,136.618 ]
+    },
+    "properties": {
+    "ID":2436,
+    "Year":2004,
+    "MONTH":9,
+    "DAY":5,
+    "HOUR":10,
+    "MINUTE":7,
+    "SECOND":7.8,
+    "magnitude":0.63,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.071,33.184,137.071 ]
+    },
+    "properties": {
+    "ID":2437,
+    "Year":2004,
+    "MONTH":9,
+    "DAY":5,
+    "HOUR":14,
+    "MINUTE":57,
+    "SECOND":18.6,
+    "magnitude":0.93,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -128.772,49.277,-128.772 ]
+    },
+    "properties": {
+    "ID":3012,
+    "Year":2004,
+    "MONTH":11,
+    "DAY":2,
+    "HOUR":10,
+    "MINUTE":2,
+    "SECOND":12.8,
+    "magnitude":0.06,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.868,-8.152,124.868 ]
+    },
+    "properties": {
+    "ID":3013,
+    "Year":2004,
+    "MONTH":11,
+    "DAY":11,
+    "HOUR":21,
+    "MINUTE":26,
+    "SECOND":41.1,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 164.721,-46.676,164.721 ]
+    },
+    "properties": {
+    "ID":5517,
+    "Year":2004,
+    "MONTH":11,
+    "DAY":22,
+    "HOUR":20,
+    "MINUTE":26,
+    "SECOND":23.9,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.119,43.006,145.119 ]
+    },
+    "properties": {
+    "ID":2921,
+    "Year":2004,
+    "MONTH":11,
+    "DAY":28,
+    "HOUR":18,
+    "MINUTE":32,
+    "SECOND":14.1,
+    "magnitude":0.12,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 161.345,-49.312,161.345 ]
+    },
+    "properties": {
+    "ID":3014,
+    "Year":2004,
+    "MONTH":12,
+    "DAY":23,
+    "HOUR":14,
+    "MINUTE":59,
+    "SECOND":4.4,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.854,3.316,95.854 ]
+    },
+    "properties": {
+    "ID":2439,
+    "Year":2004,
+    "MONTH":12,
+    "DAY":26,
+    "HOUR":0,
+    "MINUTE":58,
+    "SECOND":53.4,
+    "magnitude":50.9,
+    "damages":10000,
+    "death":227899,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.491,34.064,141.491 ]
+    },
+    "properties": {
+    "ID":2466,
+    "Year":2005,
+    "MONTH":1,
+    "DAY":19,
+    "HOUR":6,
+    "MINUTE":11,
+    "SECOND":36.4,
+    "magnitude":0.39,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.744,15.775,-61.744 ]
+    },
+    "properties": {
+    "ID":4802,
+    "Year":2005,
+    "MONTH":2,
+    "DAY":14,
+    "HOUR":18,
+    "MINUTE":5,
+    "SECOND":59.3,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.108,2.085,97.108 ]
+    },
+    "properties": {
+    "ID":2487,
+    "Year":2005,
+    "MONTH":3,
+    "DAY":28,
+    "HOUR":16,
+    "MINUTE":9,
+    "SECOND":36.5,
+    "magnitude":4.2,
+    "damages":0,
+    "death":10,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.607,-1.644,99.607 ]
+    },
+    "properties": {
+    "ID":2507,
+    "Year":2005,
+    "MONTH":4,
+    "DAY":10,
+    "HOUR":10,
+    "MINUTE":29,
+    "SECOND":11.2,
+    "magnitude":0.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.97,41.301,-125.97 ]
+    },
+    "properties": {
+    "ID":2547,
+    "Year":2005,
+    "MONTH":6,
+    "DAY":15,
+    "HOUR":2,
+    "MINUTE":50,
+    "SECOND":53.1,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.039,38.276,142.039 ]
+    },
+    "properties": {
+    "ID":2548,
+    "Year":2005,
+    "MONTH":8,
+    "DAY":16,
+    "HOUR":2,
+    "MINUTE":46,
+    "SECOND":28.4,
+    "magnitude":0.05,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.896,38.107,144.896 ]
+    },
+    "properties": {
+    "ID":2590,
+    "Year":2005,
+    "MONTH":11,
+    "DAY":14,
+    "HOUR":21,
+    "MINUTE":38,
+    "SECOND":51.4,
+    "magnitude":0.42,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0,0 ]
+    },
+    "properties": {
+    "ID":5611,
+    "Year":2005,
+    "MONTH":12,
+    "DAY":9,
+    "HOUR":1,
+    "MINUTE":57,
+    "SECOND":0,
+    "magnitude":0.08,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.214,-3.595,127.214 ]
+    },
+    "properties": {
+    "ID":2875,
+    "Year":2006,
+    "MONTH":3,
+    "DAY":14,
+    "HOUR":6,
+    "MINUTE":57,
+    "SECOND":33.8,
+    "magnitude":3.5,
+    "damages":0,
+    "death":4,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -174.123,-20.187,-174.123 ]
+    },
+    "properties": {
+    "ID":2749,
+    "Year":2006,
+    "MONTH":5,
+    "DAY":3,
+    "HOUR":15,
+    "MINUTE":26,
+    "SECOND":40.2,
+    "magnitude":0.27,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.722,-62.18 ]
+    },
+    "properties": {
+    "ID":2877,
+    "Year":2006,
+    "MONTH":5,
+    "DAY":20,
+    "HOUR":11,
+    "MINUTE":20,
+    "SECOND":0,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.411,-9.254,107.411 ]
+    },
+    "properties": {
+    "ID":2832,
+    "Year":2006,
+    "MONTH":7,
+    "DAY":17,
+    "HOUR":8,
+    "MINUTE":19,
+    "SECOND":28.7,
+    "magnitude":20.9,
+    "damages":55,
+    "death":802,
+    "missing":498,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.033,-16.592,-172.033 ]
+    },
+    "properties": {
+    "ID":2972,
+    "Year":2006,
+    "MONTH":9,
+    "DAY":28,
+    "HOUR":6,
+    "MINUTE":22,
+    "SECOND":9.7,
+    "magnitude":0.08,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.935,19.878,-155.935 ]
+    },
+    "properties": {
+    "ID":3017,
+    "Year":2006,
+    "MONTH":10,
+    "DAY":15,
+    "HOUR":17,
+    "MINUTE":7,
+    "SECOND":49.2,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.266,46.592,153.266 ]
+    },
+    "properties": {
+    "ID":3016,
+    "Year":2006,
+    "MONTH":11,
+    "DAY":15,
+    "HOUR":11,
+    "MINUTE":14,
+    "SECOND":13.5,
+    "magnitude":21.9,
+    "damages":0,
+    "death":0,
+    "missing":1,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.547,21.799,120.547 ]
+    },
+    "properties": {
+    "ID":3622,
+    "Year":2006,
+    "MONTH":12,
+    "DAY":26,
+    "HOUR":12,
+    "MINUTE":26,
+    "SECOND":21.4,
+    "magnitude":0.07,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154.524,46.243,154.524 ]
+    },
+    "properties": {
+    "ID":3019,
+    "Year":2007,
+    "MONTH":1,
+    "DAY":13,
+    "HOUR":4,
+    "MINUTE":23,
+    "SECOND":21.1,
+    "magnitude":0.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.357,-20.617,169.357 ]
+    },
+    "properties": {
+    "ID":3038,
+    "Year":2007,
+    "MONTH":3,
+    "DAY":25,
+    "HOUR":0,
+    "MINUTE":40,
+    "SECOND":1.6,
+    "magnitude":0.08,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.588,37.336,136.588 ]
+    },
+    "properties": {
+    "ID":3035,
+    "Year":2007,
+    "MONTH":3,
+    "DAY":25,
+    "HOUR":0,
+    "MINUTE":41,
+    "SECOND":57.8,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 157.044,-8.46,157.044 ]
+    },
+    "properties": {
+    "ID":3037,
+    "Year":2007,
+    "MONTH":4,
+    "DAY":1,
+    "HOUR":20,
+    "MINUTE":39,
+    "SECOND":56.3,
+    "magnitude":12.1,
+    "damages":0,
+    "death":52,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.606,-45.285,-72.606 ]
+    },
+    "properties": {
+    "ID":3044,
+    "Year":2007,
+    "MONTH":4,
+    "DAY":21,
+    "HOUR":17,
+    "MINUTE":53,
+    "SECOND":46.3,
+    "magnitude":7.6,
+    "damages":0,
+    "death":10,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29,43,29 ]
+    },
+    "properties": {
+    "ID":4311,
+    "Year":2007,
+    "MONTH":5,
+    "DAY":7,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.478,37.57,138.478 ]
+    },
+    "properties": {
+    "ID":3104,
+    "Year":2007,
+    "MONTH":7,
+    "DAY":16,
+    "HOUR":1,
+    "MINUTE":13,
+    "SECOND":22,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.798,47.116,141.798 ]
+    },
+    "properties": {
+    "ID":3155,
+    "Year":2007,
+    "MONTH":8,
+    "DAY":2,
+    "HOUR":2,
+    "MINUTE":37,
+    "SECOND":42.3,
+    "magnitude":0.19,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.603,-13.386,-76.603 ]
+    },
+    "properties": {
+    "ID":3168,
+    "Year":2007,
+    "MONTH":8,
+    "DAY":15,
+    "HOUR":23,
+    "MINUTE":40,
+    "SECOND":57.8,
+    "magnitude":10.05,
+    "damages":0,
+    "death":3,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.762,-11.61,165.762 ]
+    },
+    "properties": {
+    "ID":3598,
+    "Year":2007,
+    "MONTH":9,
+    "DAY":2,
+    "HOUR":1,
+    "MINUTE":5,
+    "SECOND":18.1,
+    "magnitude":0.05,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.367,-4.438,101.367 ]
+    },
+    "properties": {
+    "ID":3228,
+    "Year":2007,
+    "MONTH":9,
+    "DAY":12,
+    "HOUR":11,
+    "MINUTE":10,
+    "SECOND":26.8,
+    "magnitude":5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 163.954,-49.418,163.954 ]
+    },
+    "properties": {
+    "ID":3248,
+    "Year":2007,
+    "MONTH":9,
+    "DAY":30,
+    "HOUR":5,
+    "MINUTE":23,
+    "SECOND":34,
+    "magnitude":0.25,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.89,-22.247,-69.89 ]
+    },
+    "properties": {
+    "ID":3293,
+    "Year":2007,
+    "MONTH":11,
+    "DAY":14,
+    "HOUR":15,
+    "MINUTE":40,
+    "SECOND":50.5,
+    "magnitude":0.28,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.274,14.944,-61.274 ]
+    },
+    "properties": {
+    "ID":5441,
+    "Year":2007,
+    "MONTH":11,
+    "DAY":29,
+    "HOUR":19,
+    "MINUTE":0,
+    "SECOND":20.4,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.514,-25.996,-177.514 ]
+    },
+    "properties": {
+    "ID":3599,
+    "Year":2007,
+    "MONTH":12,
+    "DAY":9,
+    "HOUR":7,
+    "MINUTE":28,
+    "SECOND":20.8,
+    "magnitude":0.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.972,-2.486,99.972 ]
+    },
+    "properties": {
+    "ID":3382,
+    "Year":2008,
+    "MONTH":2,
+    "DAY":25,
+    "HOUR":8,
+    "MINUTE":36,
+    "SECOND":33,
+    "magnitude":0.12,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.892,-20.071,168.892 ]
+    },
+    "properties": {
+    "ID":3505,
+    "Year":2008,
+    "MONTH":4,
+    "DAY":9,
+    "HOUR":12,
+    "MINUTE":46,
+    "SECOND":12.7,
+    "magnitude":0.16,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.953,-19.941,168.953 ]
+    },
+    "properties": {
+    "ID":3601,
+    "Year":2008,
+    "MONTH":4,
+    "DAY":28,
+    "HOUR":18,
+    "MINUTE":33,
+    "SECOND":34.2,
+    "magnitude":0.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.322,31.002,103.322 ]
+    },
+    "properties": {
+    "ID":3586,
+    "Year":2008,
+    "MONTH":5,
+    "DAY":12,
+    "HOUR":6,
+    "MINUTE":28,
+    "SECOND":1.5,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.214,37.552,142.214 ]
+    },
+    "properties": {
+    "ID":3558,
+    "Year":2008,
+    "MONTH":7,
+    "DAY":19,
+    "HOUR":2,
+    "MINUTE":39,
+    "SECOND":28.7,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.417,-52.533,26.417 ]
+    },
+    "properties": {
+    "ID":3588,
+    "Year":2008,
+    "MONTH":8,
+    "DAY":26,
+    "HOUR":8,
+    "MINUTE":7,
+    "SECOND":8.5,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.754,41.892,143.754 ]
+    },
+    "properties": {
+    "ID":3589,
+    "Year":2008,
+    "MONTH":9,
+    "DAY":11,
+    "HOUR":0,
+    "MINUTE":20,
+    "SECOND":50.9,
+    "magnitude":0.09,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.7,43.8,-69.7 ]
+    },
+    "properties": {
+    "ID":3621,
+    "Year":2008,
+    "MONTH":10,
+    "DAY":28,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":2,
+    "damages":0.02,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.091,1.271,122.091 ]
+    },
+    "properties": {
+    "ID":3623,
+    "Year":2008,
+    "MONTH":11,
+    "DAY":16,
+    "HOUR":17,
+    "MINUTE":2,
+    "SECOND":32.7,
+    "magnitude":0.13,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.885,-0.414,132.885 ]
+    },
+    "properties": {
+    "ID":3647,
+    "Year":2009,
+    "MONTH":1,
+    "DAY":3,
+    "HOUR":19,
+    "MINUTE":43,
+    "SECOND":50.6,
+    "magnitude":0.39,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.305,-0.691,133.305 ]
+    },
+    "properties": {
+    "ID":3649,
+    "Year":2009,
+    "MONTH":1,
+    "DAY":3,
+    "HOUR":22,
+    "MINUTE":33,
+    "SECOND":40.2,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.154,46.857,155.154 ]
+    },
+    "properties": {
+    "ID":3691,
+    "Year":2009,
+    "MONTH":1,
+    "DAY":15,
+    "HOUR":17,
+    "MINUTE":49,
+    "SECOND":39,
+    "magnitude":0.11,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.397,3.884,126.397 ]
+    },
+    "properties": {
+    "ID":3692,
+    "Year":2009,
+    "MONTH":2,
+    "DAY":11,
+    "HOUR":17,
+    "MINUTE":34,
+    "SECOND":50.8,
+    "magnitude":0.13,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -174.659,-23.046,-174.659 ]
+    },
+    "properties": {
+    "ID":4312,
+    "Year":2009,
+    "MONTH":3,
+    "DAY":19,
+    "HOUR":18,
+    "MINUTE":17,
+    "SECOND":40.9,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.236,16.72,-86.236 ]
+    },
+    "properties": {
+    "ID":4356,
+    "Year":2009,
+    "MONTH":5,
+    "DAY":28,
+    "HOUR":8,
+    "MINUTE":24,
+    "SECOND":45,
+    "magnitude":4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.562,-45.762,166.562 ]
+    },
+    "properties": {
+    "ID":4376,
+    "Year":2009,
+    "MONTH":7,
+    "DAY":15,
+    "HOUR":9,
+    "MINUTE":22,
+    "SECOND":29,
+    "magnitude":0.47,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.888,14.099,92.888 ]
+    },
+    "properties": {
+    "ID":4419,
+    "Year":2009,
+    "MONTH":8,
+    "DAY":10,
+    "HOUR":19,
+    "MINUTE":55,
+    "SECOND":35.6,
+    "magnitude":0.01,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.264,34.743,138.264 ]
+    },
+    "properties": {
+    "ID":4418,
+    "Year":2009,
+    "MONTH":8,
+    "DAY":10,
+    "HOUR":20,
+    "MINUTE":7,
+    "SECOND":9.1,
+    "magnitude":0.6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.49,-1.479,99.49 ]
+    },
+    "properties": {
+    "ID":4482,
+    "Year":2009,
+    "MONTH":8,
+    "DAY":16,
+    "HOUR":7,
+    "MINUTE":38,
+    "SECOND":21.7,
+    "magnitude":0.18,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.095,-15.489,-172.095 ]
+    },
+    "properties": {
+    "ID":4440,
+    "Year":2009,
+    "MONTH":9,
+    "DAY":29,
+    "HOUR":17,
+    "MINUTE":48,
+    "SECOND":10.9,
+    "magnitude":22.35,
+    "damages":285,
+    "death":192,
+    "missing":7,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.867,-0.72,99.867 ]
+    },
+    "properties": {
+    "ID":4441,
+    "Year":2009,
+    "MONTH":9,
+    "DAY":30,
+    "HOUR":10,
+    "MINUTE":16,
+    "SECOND":9.2,
+    "magnitude":0.27,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.51,-13.006,166.51 ]
+    },
+    "properties": {
+    "ID":4442,
+    "Year":2009,
+    "MONTH":10,
+    "DAY":7,
+    "HOUR":22,
+    "MINUTE":3,
+    "SECOND":14.4,
+    "magnitude":0.31,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 157.477,-8.743,157.477 ]
+    },
+    "properties": {
+    "ID":4522,
+    "Year":2010,
+    "MONTH":1,
+    "DAY":3,
+    "HOUR":21,
+    "MINUTE":48,
+    "SECOND":5.3,
+    "magnitude":0.01,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 157.346,-8.799,157.346 ]
+    },
+    "properties": {
+    "ID":4523,
+    "Year":2010,
+    "MONTH":1,
+    "DAY":3,
+    "HOUR":22,
+    "MINUTE":36,
+    "SECOND":27.9,
+    "magnitude":3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 157.551,-9.019,157.551 ]
+    },
+    "properties": {
+    "ID":4542,
+    "Year":2010,
+    "MONTH":1,
+    "DAY":5,
+    "HOUR":12,
+    "MINUTE":15,
+    "SECOND":32.2,
+    "magnitude":0.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.533,18.457,-72.533 ]
+    },
+    "properties": {
+    "ID":4622,
+    "Year":2010,
+    "MONTH":1,
+    "DAY":12,
+    "HOUR":21,
+    "MINUTE":53,
+    "SECOND":10,
+    "magnitude":3.21,
+    "damages":0,
+    "death":7,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.425,25.93,128.425 ]
+    },
+    "properties": {
+    "ID":4782,
+    "Year":2010,
+    "MONTH":2,
+    "DAY":26,
+    "HOUR":20,
+    "MINUTE":31,
+    "SECOND":26.9,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.898,-36.122,-72.898 ]
+    },
+    "properties": {
+    "ID":4682,
+    "Year":2010,
+    "MONTH":2,
+    "DAY":27,
+    "HOUR":6,
+    "MINUTE":34,
+    "SECOND":11.5,
+    "magnitude":29,
+    "damages":30000,
+    "death":156,
+    "missing":12000,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.891,-34.29,-71.891 ]
+    },
+    "properties": {
+    "ID":4722,
+    "Year":2010,
+    "MONTH":3,
+    "DAY":11,
+    "HOUR":14,
+    "MINUTE":39,
+    "SECOND":43.9,
+    "magnitude":0.14,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.048,2.383,97.048 ]
+    },
+    "properties": {
+    "ID":4763,
+    "Year":2010,
+    "MONTH":4,
+    "DAY":6,
+    "HOUR":22,
+    "MINUTE":15,
+    "SECOND":1.5,
+    "magnitude":0.44,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.936,7.881,91.936 ]
+    },
+    "properties": {
+    "ID":4902,
+    "Year":2010,
+    "MONTH":6,
+    "DAY":12,
+    "HOUR":19,
+    "MINUTE":26,
+    "SECOND":50.4,
+    "magnitude":0.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.069,-17.541,168.069 ]
+    },
+    "properties": {
+    "ID":5222,
+    "Year":2010,
+    "MONTH":8,
+    "DAY":10,
+    "HOUR":5,
+    "MINUTE":23,
+    "SECOND":44.9,
+    "magnitude":0.23,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.082,-3.487,100.082 ]
+    },
+    "properties": {
+    "ID":5342,
+    "Year":2010,
+    "MONTH":10,
+    "DAY":25,
+    "HOUR":14,
+    "MINUTE":42,
+    "SECOND":22,
+    "magnitude":16.9,
+    "damages":39,
+    "death":431,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.698,26.901,143.698 ]
+    },
+    "properties": {
+    "ID":5402,
+    "Year":2010,
+    "MONTH":12,
+    "DAY":21,
+    "HOUR":17,
+    "MINUTE":19,
+    "SECOND":40.6,
+    "magnitude":0.13,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.947,-19.702,167.947 ]
+    },
+    "properties": {
+    "ID":5403,
+    "Year":2010,
+    "MONTH":12,
+    "DAY":25,
+    "HOUR":13,
+    "MINUTE":16,
+    "SECOND":37,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.311,-19.157,168.311 ]
+    },
+    "properties": {
+    "ID":5419,
+    "Year":2011,
+    "MONTH":1,
+    "DAY":9,
+    "HOUR":10,
+    "MINUTE":3,
+    "SECOND":44.2,
+    "magnitude":0.03,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.125,-36.474,-73.125 ]
+    },
+    "properties": {
+    "ID":5406,
+    "Year":2011,
+    "MONTH":2,
+    "DAY":11,
+    "HOUR":20,
+    "MINUTE":5,
+    "SECOND":30.7,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.68,-43.583,172.68 ]
+    },
+    "properties": {
+    "ID":5407,
+    "Year":2011,
+    "MONTH":2,
+    "DAY":21,
+    "HOUR":23,
+    "MINUTE":51,
+    "SECOND":42.3,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.842,38.435,142.842 ]
+    },
+    "properties": {
+    "ID":5412,
+    "Year":2011,
+    "MONTH":3,
+    "DAY":9,
+    "HOUR":2,
+    "MINUTE":45,
+    "SECOND":20.3,
+    "magnitude":0.6,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.372,38.297,142.372 ]
+    },
+    "properties": {
+    "ID":5413,
+    "Year":2011,
+    "MONTH":3,
+    "DAY":11,
+    "HOUR":5,
+    "MINUTE":46,
+    "SECOND":24.1,
+    "magnitude":38.9,
+    "damages":220085.456,
+    "death":18453,
+    "missing":6152,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.588,38.276,141.588 ]
+    },
+    "properties": {
+    "ID":5429,
+    "Year":2011,
+    "MONTH":4,
+    "DAY":7,
+    "HOUR":14,
+    "MINUTE":32,
+    "SECOND":43.2,
+    "magnitude":0.08,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.34,-29.539,-176.34 ]
+    },
+    "properties": {
+    "ID":5430,
+    "Year":2011,
+    "MONTH":7,
+    "DAY":6,
+    "HOUR":19,
+    "MINUTE":3,
+    "SECOND":18.2,
+    "magnitude":1.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.264,38.034,143.264 ]
+    },
+    "properties": {
+    "ID":5431,
+    "Year":2011,
+    "MONTH":7,
+    "DAY":10,
+    "HOUR":0,
+    "MINUTE":57,
+    "SECOND":10.8,
+    "magnitude":0.09,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.143,-18.365,168.143 ]
+    },
+    "properties": {
+    "ID":5437,
+    "Year":2011,
+    "MONTH":8,
+    "DAY":20,
+    "HOUR":16,
+    "MINUTE":55,
+    "SECOND":2.5,
+    "magnitude":0.18,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.218,-18.311,168.218 ]
+    },
+    "properties": {
+    "ID":5436,
+    "Year":2011,
+    "MONTH":8,
+    "DAY":20,
+    "HOUR":18,
+    "MINUTE":19,
+    "SECOND":23.5,
+    "magnitude":0.18,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.238,-28.993,-176.238 ]
+    },
+    "properties": {
+    "ID":5439,
+    "Year":2011,
+    "MONTH":10,
+    "DAY":21,
+    "HOUR":17,
+    "MINUTE":57,
+    "SECOND":16.1,
+    "magnitude":0.14,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.133,-17.827,167.133 ]
+    },
+    "properties": {
+    "ID":5442,
+    "Year":2012,
+    "MONTH":2,
+    "DAY":2,
+    "HOUR":13,
+    "MINUTE":34,
+    "SECOND":40.6,
+    "magnitude":0.08,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.944,40.887,144.944 ]
+    },
+    "properties": {
+    "ID":5446,
+    "Year":2012,
+    "MONTH":3,
+    "DAY":14,
+    "HOUR":9,
+    "MINUTE":8,
+    "SECOND":35.1,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.231,16.493,-98.231 ]
+    },
+    "properties": {
+    "ID":5447,
+    "Year":2012,
+    "MONTH":3,
+    "DAY":20,
+    "HOUR":18,
+    "MINUTE":2,
+    "SECOND":47.4,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.063,2.327,93.063 ]
+    },
+    "properties": {
+    "ID":5449,
+    "Year":2012,
+    "MONTH":4,
+    "DAY":11,
+    "HOUR":8,
+    "MINUTE":38,
+    "SECOND":36.7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.463,0.802,92.463 ]
+    },
+    "properties": {
+    "ID":5450,
+    "Year":2012,
+    "MONTH":4,
+    "DAY":11,
+    "HOUR":10,
+    "MINUTE":43,
+    "SECOND":10.8,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.741,-18.972,168.741 ]
+    },
+    "properties": {
+    "ID":5451,
+    "Year":2012,
+    "MONTH":4,
+    "DAY":14,
+    "HOUR":22,
+    "MINUTE":5,
+    "SECOND":26.4,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.3,69.2,-51.3 ]
+    },
+    "properties": {
+    "ID":5460,
+    "Year":2012,
+    "MONTH":7,
+    "DAY":15,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.59,12.139,-88.59 ]
+    },
+    "properties": {
+    "ID":5462,
+    "Year":2012,
+    "MONTH":8,
+    "DAY":27,
+    "HOUR":4,
+    "MINUTE":37,
+    "SECOND":19.4,
+    "magnitude":0.36,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.638,10.811,126.638 ]
+    },
+    "properties": {
+    "ID":5463,
+    "Year":2012,
+    "MONTH":8,
+    "DAY":31,
+    "HOUR":12,
+    "MINUTE":47,
+    "SECOND":33.3,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.315,10.085,-85.315 ]
+    },
+    "properties": {
+    "ID":5464,
+    "Year":2012,
+    "MONTH":9,
+    "DAY":5,
+    "HOUR":14,
+    "MINUTE":42,
+    "SECOND":7.8,
+    "magnitude":0.16,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -132.101,52.788,-132.101 ]
+    },
+    "properties": {
+    "ID":5467,
+    "Year":2012,
+    "MONTH":10,
+    "DAY":28,
+    "HOUR":3,
+    "MINUTE":4,
+    "SECOND":8.8,
+    "magnitude":12.98,
+    "damages":0,
+    "death":1,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.895,13.988,-91.895 ]
+    },
+    "properties": {
+    "ID":5468,
+    "Year":2012,
+    "MONTH":11,
+    "DAY":7,
+    "HOUR":16,
+    "MINUTE":35,
+    "SECOND":46.9,
+    "magnitude":0.35,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.949,37.89,143.949 ]
+    },
+    "properties": {
+    "ID":5469,
+    "Year":2012,
+    "MONTH":12,
+    "DAY":7,
+    "HOUR":8,
+    "MINUTE":18,
+    "SECOND":23.1,
+    "magnitude":1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.114,-10.766,165.114 ]
+    },
+    "properties": {
+    "ID":5476,
+    "Year":2013,
+    "MONTH":2,
+    "DAY":6,
+    "HOUR":1,
+    "MINUTE":12,
+    "SECOND":25.8,
+    "magnitude":11,
+    "damages":0,
+    "death":10,
+    "missing":15,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.018,-10.928,166.018 ]
+    },
+    "properties": {
+    "ID":5477,
+    "Year":2013,
+    "MONTH":2,
+    "DAY":8,
+    "HOUR":15,
+    "MINUTE":26,
+    "SECOND":38.4,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.788,46.221,150.788 ]
+    },
+    "properties": {
+    "ID":5479,
+    "Year":2013,
+    "MONTH":4,
+    "DAY":19,
+    "HOUR":3,
+    "MINUTE":5,
+    "SECOND":52.6,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0,0 ]
+    },
+    "properties": {
+    "ID":5483,
+    "Year":2013,
+    "MONTH":6,
+    "DAY":13,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":1.8,
+    "damages":0,
+    "death":0,
+    "missing":2,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.337,-41.704,174.337 ]
+    },
+    "properties": {
+    "ID":5491,
+    "Year":2013,
+    "MONTH":7,
+    "DAY":21,
+    "HOUR":5,
+    "MINUTE":9,
+    "SECOND":31.4,
+    "magnitude":0.07,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.061,-41.767,174.061 ]
+    },
+    "properties": {
+    "ID":5519,
+    "Year":2013,
+    "MONTH":8,
+    "DAY":16,
+    "HOUR":2,
+    "MINUTE":31,
+    "SECOND":7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 62.26,25.18,62.26 ]
+    },
+    "properties": {
+    "ID":5506,
+    "Year":2013,
+    "MONTH":9,
+    "DAY":24,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0.26,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.679,37.149,144.679 ]
+    },
+    "properties": {
+    "ID":5533,
+    "Year":2013,
+    "MONTH":10,
+    "DAY":25,
+    "HOUR":17,
+    "MINUTE":10,
+    "SECOND":18,
+    "magnitude":0.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.362,-60.296,-46.362 ]
+    },
+    "properties": {
+    "ID":5534,
+    "Year":2013,
+    "MONTH":11,
+    "DAY":17,
+    "HOUR":9,
+    "MINUTE":4,
+    "SECOND":55,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.628,-19.925,-70.628 ]
+    },
+    "properties": {
+    "ID":5555,
+    "Year":2014,
+    "MONTH":3,
+    "DAY":16,
+    "HOUR":21,
+    "MINUTE":16,
+    "SECOND":30,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.817,-19.642,-70.817 ]
+    },
+    "properties": {
+    "ID":5557,
+    "Year":2014,
+    "MONTH":4,
+    "DAY":1,
+    "HOUR":23,
+    "MINUTE":46,
+    "SECOND":46,
+    "magnitude":4.4,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.135,-20.4,-70.135 ]
+    },
+    "properties": {
+    "ID":5558,
+    "Year":2014,
+    "MONTH":4,
+    "DAY":3,
+    "HOUR":2,
+    "MINUTE":43,
+    "SECOND":17,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 162.211,-11.315,162.211 ]
+    },
+    "properties": {
+    "ID":5559,
+    "Year":2014,
+    "MONTH":4,
+    "DAY":12,
+    "HOUR":20,
+    "MINUTE":14,
+    "SECOND":39,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 162.069,-11.451,162.069 ]
+    },
+    "properties": {
+    "ID":5560,
+    "Year":2014,
+    "MONTH":4,
+    "DAY":13,
+    "HOUR":12,
+    "MINUTE":36,
+    "SECOND":18,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.816,17.552,-100.816 ]
+    },
+    "properties": {
+    "ID":5563,
+    "Year":2014,
+    "MONTH":4,
+    "DAY":18,
+    "HOUR":14,
+    "MINUTE":27,
+    "SECOND":26,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154.931,-6.72,154.931 ]
+    },
+    "properties": {
+    "ID":5564,
+    "Year":2014,
+    "MONTH":4,
+    "DAY":19,
+    "HOUR":13,
+    "MINUTE":27,
+    "SECOND":59,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.425,37.04,142.425 ]
+    },
+    "properties": {
+    "ID":5574,
+    "Year":2014,
+    "MONTH":7,
+    "DAY":11,
+    "HOUR":19,
+    "MINUTE":21,
+    "SECOND":59,
+    "magnitude":0.2,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.779,-32.115,-110.779 ]
+    },
+    "properties": {
+    "ID":5577,
+    "Year":2014,
+    "MONTH":10,
+    "DAY":9,
+    "HOUR":2,
+    "MINUTE":14,
+    "SECOND":32,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.123,12.526,-88.123 ]
+    },
+    "properties": {
+    "ID":5607,
+    "Year":2014,
+    "MONTH":10,
+    "DAY":14,
+    "HOUR":3,
+    "MINUTE":51,
+    "SECOND":46,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.54,1.928,126.54 ]
+    },
+    "properties": {
+    "ID":5578,
+    "Year":2014,
+    "MONTH":11,
+    "DAY":15,
+    "HOUR":2,
+    "MINUTE":31,
+    "SECOND":40,
+    "magnitude":0.09,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.89,39.83,142.89 ]
+    },
+    "properties": {
+    "ID":5580,
+    "Year":2015,
+    "MONTH":2,
+    "DAY":16,
+    "HOUR":23,
+    "MINUTE":6,
+    "SECOND":27,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.148,-16.431,168.148 ]
+    },
+    "properties": {
+    "ID":5582,
+    "Year":2015,
+    "MONTH":2,
+    "DAY":19,
+    "HOUR":13,
+    "MINUTE":18,
+    "SECOND":32,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.556,-4.76,152.556 ]
+    },
+    "properties": {
+    "ID":5581,
+    "Year":2015,
+    "MONTH":3,
+    "DAY":29,
+    "HOUR":23,
+    "MINUTE":48,
+    "SECOND":31,
+    "magnitude":0.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.167,31.594,140.167 ]
+    },
+    "properties": {
+    "ID":5584,
+    "Year":2015,
+    "MONTH":5,
+    "DAY":2,
+    "HOUR":16,
+    "MINUTE":50,
+    "SECOND":46,
+    "magnitude":0.5,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.886,-5.465,151.886 ]
+    },
+    "properties": {
+    "ID":5583,
+    "Year":2015,
+    "MONTH":5,
+    "DAY":5,
+    "HOUR":1,
+    "MINUTE":44,
+    "SECOND":5,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0,0 ]
+    },
+    "properties": {
+    "ID":5603,
+    "Year":2015,
+    "MONTH":7,
+    "DAY":1,
+    "HOUR":0,
+    "MINUTE":0,
+    "SECOND":0,
+    "magnitude":0.18,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.396,-9.303,158.396 ]
+    },
+    "properties": {
+    "ID":5589,
+    "Year":2015,
+    "MONTH":7,
+    "DAY":10,
+    "HOUR":4,
+    "MINUTE":12,
+    "SECOND":42,
+    "magnitude":0.01,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.172,-10.444,165.172 ]
+    },
+    "properties": {
+    "ID":5588,
+    "Year":2015,
+    "MONTH":7,
+    "DAY":18,
+    "HOUR":2,
+    "MINUTE":27,
+    "SECOND":33,
+    "magnitude":0.09,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.674,-31.573,-71.674 ]
+    },
+    "properties": {
+    "ID":5590,
+    "Year":2015,
+    "MONTH":9,
+    "DAY":16,
+    "HOUR":22,
+    "MINUTE":54,
+    "SECOND":32,
+    "magnitude":13.6,
+    "damages":0,
+    "death":8,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.105,-29.439,-72.105 ]
+    },
+    "properties": {
+    "ID":5592,
+    "Year":2015,
+    "MONTH":11,
+    "DAY":11,
+    "HOUR":1,
+    "MINUTE":54,
+    "SECOND":37,
+    "magnitude":0.55,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.877,30.991,128.877 ]
+    },
+    "properties": {
+    "ID":5593,
+    "Year":2015,
+    "MONTH":11,
+    "DAY":13,
+    "HOUR":20,
+    "MINUTE":51,
+    "SECOND":30,
+    "magnitude":0.3,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.552,38.755,20.552 ]
+    },
+    "properties": {
+    "ID":5594,
+    "Year":2015,
+    "MONTH":11,
+    "DAY":17,
+    "HOUR":7,
+    "MINUTE":10,
+    "SECOND":8,
+    "magnitude":0.15,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.275,-4.908,94.275 ]
+    },
+    "properties": {
+    "ID":5598,
+    "Year":2016,
+    "MONTH":3,
+    "DAY":2,
+    "HOUR":12,
+    "MINUTE":49,
+    "SECOND":48,
+    "magnitude":0.21,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.94,3.71,-79.94 ]
+    },
+    "properties": {
+    "ID":5599,
+    "Year":2016,
+    "MONTH":4,
+    "DAY":16,
+    "HOUR":23,
+    "MINUTE":58,
+    "SECOND":37,
+    "magnitude":0.14,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.393,-16.074,167.393 ]
+    },
+    "properties": {
+    "ID":5600,
+    "Year":2016,
+    "MONTH":4,
+    "DAY":28,
+    "HOUR":19,
+    "MINUTE":33,
+    "SECOND":24,
+    "magnitude":0.02,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173.111,-22.495,173.111 ]
+    },
+    "properties": {
+    "ID":5604,
+    "Year":2016,
+    "MONTH":8,
+    "DAY":12,
+    "HOUR":1,
+    "MINUTE":26,
+    "SECOND":35,
+    "magnitude":0.19,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -31.874,-55.279,-31.874 ]
+    },
+    "properties": {
+    "ID":5605,
+    "Year":2016,
+    "MONTH":8,
+    "DAY":19,
+    "HOUR":7,
+    "MINUTE":32,
+    "SECOND":22,
+    "magnitude":0.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.055,-37.401,179.055 ]
+    },
+    "properties": {
+    "ID":5606,
+    "Year":2016,
+    "MONTH":9,
+    "DAY":1,
+    "HOUR":16,
+    "MINUTE":37,
+    "SECOND":57,
+    "magnitude":0.21,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173.077,-42.757,173.077 ]
+    },
+    "properties": {
+    "ID":5613,
+    "Year":2016,
+    "MONTH":11,
+    "DAY":13,
+    "HOUR":11,
+    "MINUTE":2,
+    "SECOND":56,
+    "magnitude":4.1,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.403,37.392,141.403 ]
+    },
+    "properties": {
+    "ID":5618,
+    "Year":2016,
+    "MONTH":11,
+    "DAY":21,
+    "HOUR":20,
+    "MINUTE":59,
+    "SECOND":49,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.835,11.96,-88.835 ]
+    },
+    "properties": {
+    "ID":5620,
+    "Year":2016,
+    "MONTH":11,
+    "DAY":24,
+    "HOUR":18,
+    "MINUTE":43,
+    "SECOND":48,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 161.335,-10.665,161.335 ]
+    },
+    "properties": {
+    "ID":5630,
+    "Year":2016,
+    "MONTH":12,
+    "DAY":8,
+    "HOUR":17,
+    "MINUTE":38,
+    "SECOND":46,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 161.107,-10.73,161.107 ]
+    },
+    "properties": {
+    "ID":5632,
+    "Year":2016,
+    "MONTH":12,
+    "DAY":9,
+    "HOUR":19,
+    "MINUTE":10,
+    "SECOND":7,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.45,-4.509,153.45 ]
+    },
+    "properties": {
+    "ID":5636,
+    "Year":2016,
+    "MONTH":12,
+    "DAY":17,
+    "HOUR":10,
+    "MINUTE":51,
+    "SECOND":12,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.88,-43.416,-73.88 ]
+    },
+    "properties": {
+    "ID":5637,
+    "Year":2016,
+    "MONTH":12,
+    "DAY":25,
+    "HOUR":14,
+    "MINUTE":22,
+    "SECOND":27,
+    "magnitude":0,
+    "damages":0,
+    "death":0,
+    "missing":0,
+    "injuries":0
+    }
+  }
+]
+}
